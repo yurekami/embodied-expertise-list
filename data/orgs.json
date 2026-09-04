@@ -1,0 +1,4041 @@
+[
+ {
+  "name": "Physical Intelligence",
+  "country": "USA",
+  "stage": "Series B",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.pi.website",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Home",
+   "Data"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Builds general-purpose Vision-Language-Action foundation models (π0, π0.5) meant to control any robot for any task — PRACTICE (large-scale imitation learning + RL across pooled cross-robot data) and early DEPLOY via partner integrations; open-sources the stack as 'openpi'.",
+  "flagship": "π0 / π0.5 · openpi",
+  "people": "Karol Hausman (CEO), Sergey Levine (Chief Scientist), Chelsea Finn, Brian Ichter, Lachy Groom (COO), Adnan Esmail, Quan Vuong — ex-Google DeepMind, Stanford, UC Berkeley, Stripe",
+  "founded": 2024,
+  "hq": "San Francisco, USA",
+  "raised": 1070,
+  "raisedD": "$1.07B",
+  "raisedC": "hi",
+  "val": 5.6,
+  "valD": "$5.6B",
+  "valC": "hi",
+  "oss": true,
+  "note": "Backed by Jeff Bezos, Thrive Capital, Lux Capital, Amazon, CapitalG, Index Ventures, T. Rowe Price. In talks since March 2026 for ~$1B more at ~$11B valuation (Founders Fund, Lightspeed) — unconfirmed/unclosed as of Sep 2026, so valuation kept at the closed Series B figure. Commercial proof point is a live pilot with laundry-robotics startup Weave in a SF laundromat (Isaac 0 folding unit), not yet multi-site paid deployment.",
+  "sources": [
+   [
+    "Physical Intelligence in talks to raise $1B again · 2026-03-27",
+    "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/"
+   ],
+   [
+    "Bloomberg: PI valued at $5.6B in new funding · 2025-11-20",
+    "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding"
+   ],
+   [
+    "openpi GitHub repo",
+    "https://github.com/Physical-Intelligence/openpi"
+   ],
+   [
+    "The Physical Intelligence Layer (Weave partnership)",
+    "https://www.pi.website/blog/partner"
+   ],
+   [
+    "Physical Intelligence Inc. — Wikipedia",
+    "https://en.wikipedia.org/wiki/Physical_Intelligence_Inc."
+   ],
+   [
+    "π0.5 blog post (pub. 2025-04-22)",
+    "https://www.pi.website/blog/pi05"
+   ],
+   [
+    "π0 blog post (pub. 2024-10-31)",
+    "https://www.pi.website/blog/pi0"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-11",
+    "amountM": 400,
+    "label": "Series A ($2.4B val.)",
+    "src": 4
+   },
+   {
+    "date": "2025-11",
+    "amountM": 600,
+    "label": "Series B ($5.6B val.)",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2024-10",
+    "label": "π0 VLA model released",
+    "src": 6
+   },
+   {
+    "date": "2025-04",
+    "label": "π0.5 model released",
+    "src": 5
+   }
+  ],
+  "rank": 1,
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Deploy"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Skild AI",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.skild.ai",
+  "seg": "infra",
+  "dom": [
+   "Humanoid",
+   "Mobile",
+   "Logistics"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Builds 'Skild Brain,' a single omni-bodied foundation model (behavior + world model) meant to run across many robot embodiments — PRACTICE (large-scale sim + real-robot RL) and DEPLOY into warehousing, security, construction, data-center and inspection customers; acquired Zebra Technologies' robotics-automation business (ex-Fetch Robotics) in 2026 to add its own hardware/deployment channel.",
+  "flagship": "Skild Brain",
+  "people": "Deepak Pathak (CEO), Abhinav Gupta (President) — both CMU Robotics Institute professors, ex-Meta FAIR",
+  "founded": 2023,
+  "hq": "Pittsburgh, USA",
+  "raised": 2200,
+  "raisedD": "$2.2B",
+  "raisedC": "hi",
+  "val": 14,
+  "valD": "$14B+",
+  "valC": "hi",
+  "oss": false,
+  "note": "SoftBank is the anchor investor across rounds; Series C (Jan 2026) added NVIDIA, Samsung, LG, Schneider Electric, Salesforce Ventures, Bezos, Macquarie. Self-reported ~$0 to ~$30M revenue in a few months of 2025. Series B date/valuation vary slightly across outlets (~$4.5–4.7B, reported Jan–summer 2025) — treat as medium confidence.",
+  "sources": [
+   [
+    "Announcing Series C — Skild AI blog · 2026-01-14",
+    "https://www.skild.ai/blogs/series-c"
+   ],
+   [
+    "TechCrunch: Skild AI hits $14B valuation · 2026-01-14",
+    "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/"
+   ],
+   [
+    "The Robot Report: Skild AI raises $1.4B, 'omni-bodied' Skild Brain",
+    "https://www.therobotreport.com/skild-ai-raises-1-4b-building-omni-bodied-robot-skild-brain/"
+   ],
+   [
+    "Forbes: $1.5B company building general-purpose brain for robots · 2024-07-09",
+    "https://www.forbes.com/sites/rashishrivastava/2024/07/09/this-15-billion-ai-company-is-building-a-general-purpose-brain-for-robots/"
+   ],
+   [
+    "UMD CS: SoftBank to invest $500M in Skild AI",
+    "https://www.cs.umd.edu/article/2025/01/softbank-invest-500-million-robotics-startup-skild-ai"
+   ],
+   [
+    "Skild AI acquires Zebra Technologies' robotics business · 2026-04-15",
+    "https://www.businesswire.com/news/home/20260415518240/en/Skild-AI-Acquires-Zebra-Technologies-Robotics-Automation-Business"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-07",
+    "amountM": 300,
+    "label": "Series A ($1.5B val.)",
+    "src": 3
+   },
+   {
+    "date": "2025-04",
+    "amountM": 500,
+    "label": "Series B (~$4.5–4.7B val.)",
+    "src": 4
+   },
+   {
+    "date": "2026-01",
+    "amountM": 1400,
+    "label": "Series C (>$14B val.)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-04",
+    "label": "Acquires Zebra Technologies' robotics automation unit (ex-Fetch Robotics)",
+    "src": 5
+   }
+  ],
+  "rank": 2,
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Deploy"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Sereact",
+  "country": "Germany",
+  "stage": "Series B",
+  "head": "51–200",
+  "headC": "med",
+  "url": "https://sereact.ai/",
+  "seg": "infra",
+  "dom": [
+   "Logistics",
+   "Manipulation",
+   "Industrial"
+  ],
+  "lvl": 4,
+  "target": 4,
+  "loop": "Sereact's Cortex 'robotic brain' is a vision-language-action system letting industrial and warehouse robot arms (single- and dual-arm picking cells, plus humanoids) handle SKUs and tasks they were never explicitly programmed for; it is DEPLOYED across 200+ live systems at customers like BMW, PepsiCo, Daimler Truck and Austrian Post, with production data (1B+ picks, ~1 human intervention per 53,000 picks) feeding IMPROVE-stage model updates via Cortex 2.0.",
+  "flagship": "Cortex 2.0",
+  "people": "Dr. Ralf Gulde (CEO/co-founder, ex-University of Stuttgart AI researcher), Marc Tuscher (CTO/co-founder, ex-University of Stuttgart AI researcher)",
+  "founded": 2021,
+  "hq": "Stuttgart, Germany",
+  "raised": 141,
+  "raisedD": "$141M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "German-founded, expanding to the US (first US office in Boston, funded by this round). Valuation undisclosed in every source checked. 200+ live systems and 1B+ picks are self-reported by the company in its Series B announcement.",
+  "sources": [
+   [
+    "Sereact raises €25m Series A · 2025-01-22 — Silicon Republic",
+    "https://www.siliconrepublic.com/start-ups/sereact-funding-ai-robotics-germany-investments-us-expansion"
+   ],
+   [
+    "German robotics startup Sereact raises $110M · 2026-04-27 — Tech.eu",
+    "https://tech.eu/2026/04/27/german-robotics-startup-sereact-raises-110m/"
+   ],
+   [
+    "Sereact Raises $110M Series B (company blog)",
+    "https://sereact.ai/posts/series-b"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-01",
+    "amountM": 26,
+    "label": "Series A",
+    "src": 0
+   },
+   {
+    "date": "2026-04",
+    "amountM": 110,
+    "label": "Series B",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-04",
+    "label": "Cortex 2.0 launched; 200+ systems live, 1B+ production picks, ~1 intervention per 53,000 picks",
+    "src": 2
+   }
+  ],
+  "rank": 3,
+  "tier": "site",
+  "tags": [
+   "Practice",
+   "Deploy",
+   "Improve"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Generalist AI",
+  "country": "USA",
+  "stage": "Series B",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.generalistai.com",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Industrial",
+   "Logistics"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Builds 'Embodied Foundation Models' (GEN-1, GEN-1.5) that let robot arms (6–16+ DoF) perform dexterous manipulation, pretrained on 500,000+ hours of real-world interaction data; sells direct, forward-deployed integrations (PRACTICE + DEPLOY) into industrial and logistics operators rather than self-serve software.",
+  "flagship": "GEN-1 / GEN-1.5",
+  "people": "Pete Florence (CEO), Andy Zeng, Andrew Barry — ex-Google DeepMind, ex-Boston Dynamics",
+  "founded": 2024,
+  "hq": "San Mateo, USA",
+  "raised": 600,
+  "raisedD": "$600M",
+  "raisedC": "med",
+  "val": 3,
+  "valD": "$3B",
+  "valC": "med",
+  "oss": false,
+  "note": "Backed by Radical Ventures (lead), 8VC, NVIDIA (NVentures), Bezos Expeditions, Fei-Fei Li, Union Square Ventures, Spark Capital, Boldstart. Valuation reported to jump from ~$2B (June 2026) to $3B (Aug 2026) within ~3 months per TechCrunch sourcing — a press report, not an official company confirmation; earlier Boldstart (2024) and NVentures (Mar 2025) checks were undisclosed amounts and excluded from cumulative raised. Coined the term 'physical prompting' for in-context, gradient-free task learning (see events).",
+  "sources": [
+   [
+    "TechCrunch: Generalist reaches $3B valuation · 2026-08-25",
+    "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
+   ],
+   [
+    "Robotics & Automation News: Generalist AI raises $400M · 2026-06-05",
+    "https://roboticsandautomationnews.com/2026/06/05/generalist-ai-raises-400-million-to-scale-robot-intelligence-platform/102307/"
+   ],
+   [
+    "Sacra company profile",
+    "https://sacra.com/c/generalist/"
+   ],
+   [
+    "GEN-1.5: Embodied Foundation Models are One-Shot Learners — Generalist AI blog · 2026-08-19",
+    "https://generalistai.com/blog/gen-1.5"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-06",
+    "amountM": 400,
+    "label": "Series B ($2B val.)",
+    "src": 1
+   },
+   {
+    "date": "2026-08",
+    "amountM": 200,
+    "label": "Series B extension ($3B val.)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-08",
+    "label": "GEN-1.5 released; coins 'physical prompting' — learns new tasks from a single 3–12s sensorimotor demo in-context, no gradient updates",
+    "src": 3
+   }
+  ],
+  "rank": 4,
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Observe"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Field AI",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "51–200",
+  "headC": "med",
+  "url": "https://www.fieldai.com/",
+  "seg": "infra",
+  "dom": [
+   "Field",
+   "Mobile",
+   "Industrial"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Field AI builds hardware-agnostic, 'physics-first' Field Foundation Models (FFMs) that let quadrupeds, humanoids, wheeled robots and vehicles navigate GPS-denied, unmapped sites without pre-training — a DEPLOY-layer robot brain sold to construction, energy, manufacturing and delivery operators, with on-device processing and multi-robot coordination running at customer sites such as DPR Construction.",
+  "flagship": "Field Foundation Models (FFMs) / EDGE",
+  "people": "Ali Agha (Founder/CEO, ex-NASA JPL, PI for DARPA Subterranean Challenge and DARPA RACER); team drawn from DeepMind, Google Brain, Tesla Autopilot, SpaceX, Zoox, Cruise, Amazon, Toyota Research Institute",
+  "founded": 2023,
+  "hq": "Irvine, USA",
+  "raised": 405,
+  "raisedD": "$405M",
+  "raisedC": "hi",
+  "val": 2,
+  "valD": "$2B",
+  "valC": "med",
+  "oss": false,
+  "note": "Backed by Bezos Expeditions, Gates Frontier, NVentures, Temasek, Intel Capital, Khosla, Samsung, BHP Ventures, among others. Runs hardware-agnostically on third-party platforms including Boston Dynamics Spot and ANYbotics ANYmal; named customer DPR Construction plus 2026 Boston Dynamics, NVIDIA and Caterpillar partnership announcements. Split of the $405M between a 2024 round (implied ~$500M valuation, amount undisclosed) and the Aug 2025 tranche(s) is not publicly broken out.",
+  "sources": [
+   [
+    "FieldAI Announces Over $400M in Funds Raised · 2025-08-20",
+    "https://www.fieldai.com/news/fieldai-announces-over-400m-in-funds-raised-to-advance-embodied-ai-at-scale"
+   ],
+   [
+    "FieldAI raises $405M to build universal robot brains — TechCrunch · 2025-08-20",
+    "https://techcrunch.com/2025/08/20/fieldai-raises-405m-to-build-universal-robot-brains/"
+   ],
+   [
+    "Nvidia-Backed Field AI Raises $405M, Valued at $2B — Yahoo Finance",
+    "https://finance.yahoo.com/news/nvidia-backed-nvda-field-ai-042220301.html"
+   ],
+   [
+    "$2B-Valued FieldAI Moves to Irvine — OCBJ",
+    "https://www.ocbj.com/technology/fieldai-raises-405m-for-2b-valuation/"
+   ],
+   [
+    "FieldAI newsroom (Boston Dynamics / NVIDIA / Caterpillar partnerships, 2026)",
+    "https://www.fieldai.com/news"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-08",
+    "amountM": 405,
+    "label": "Series B/C combined (split undisclosed)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-11",
+    "label": "DPR Construction deploys FieldAI Brain for autonomous progress scanning/site analytics",
+    "src": 4
+   },
+   {
+    "date": "2026-03",
+    "label": "Boston Dynamics and NVIDIA partnerships announced",
+    "src": 4
+   }
+  ],
+  "rank": 5,
+  "tier": "open",
+  "tags": [
+   "Practice",
+   "Deploy",
+   "Improve"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Covariant",
+  "country": "USA",
+  "stage": "Acquired",
+  "head": "11–50",
+  "headC": "med",
+  "url": "https://covariant.ai",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Logistics",
+   "Industrial"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Built a robot 'brain' — Covariant Brain, then RFM-1 — trained on manipulation demonstrations (PRACTICE) and deployed on ABB/Knapp robotic arms for warehouse bin-picking and sortation (DEPLOY) at Otto Group, Radial and McKesson; since Aug 2024 that same model is also non-exclusively licensed into Amazon's fulfillment robots.",
+  "flagship": "RFM-1 · Covariant Brain",
+  "people": "Peter Chen (CEO), Pieter Abbeel (President/Chief Scientist), Rocky Duan (CTO), Tianhao Zhang — ex-OpenAI researchers / UC Berkeley",
+  "founded": 2017,
+  "hq": "Emeryville, USA",
+  "raised": 222,
+  "raisedD": "$222M",
+  "raisedC": "hi",
+  "val": 0.625,
+  "valD": "$625M",
+  "valC": "hi",
+  "oss": false,
+  "note": "Backed by Index Ventures, Radical Ventures, Amplify Partners, CPPIB; raised $222M independently through April 2023 at a $625M valuation. The Aug 30, 2024 Amazon deal is a 'reverse acquihire': Amazon hired the 3 founders plus ~25% of staff and took a non-exclusive license to Covariant's foundation models; a later whistleblower complaint put the price at ~$380M upfront + $20M deferred to investors (Amazon itself disclosed no dollar figure) — well below the 2023 valuation. Covariant continues operating independently (~46–47 employees) under ex-COO Ted Stinson as CEO, still serving its warehouse customers.",
+  "sources": [
+   [
+    "Amazon hires Covariant founders, inks AI licensing deal — GeekWire · 2024-08-30",
+    "https://www.geekwire.com/2024/amazon-hires-covariant-founders-inks-licensing-deal-with-robotics-ai-startup-in-latest-reverse-acquihire-deal/"
+   ],
+   [
+    "Amazon hires the founders of AI robotics startup Covariant — TechCrunch · 2024-08-31",
+    "https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/"
+   ],
+   [
+    "Covariant Adds $75M in Series C Funds — Businesswire · 2023-04-04",
+    "https://www.businesswire.com/news/home/20230404005494/en/Covariant-Adds-%2475M-in-Series-C-Funds-to-Meet-Customer-Demand-for-Scaled-AI-Robotics-Deployments"
+   ],
+   [
+    "Covariant Raises $80M in Series C Funding — PRNewswire · 2021-07",
+    "https://www.prnewswire.com/news-releases/covariant-raises-80m-in-series-c-funding-achieves-autonomy-across-industries-301340995.html"
+   ],
+   [
+    "Covariant (company) — Wikipedia",
+    "https://en.wikipedia.org/wiki/Covariant_(company)"
+   ],
+   [
+    "Amazon hires from AI robotics startup Covariant, licenses technology — About Amazon · 2024-08-30",
+    "https://www.aboutamazon.com/news/company-news/amazon-covariant-ai-robots"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2020-05",
+    "amountM": 40,
+    "label": "Series B",
+    "src": 4
+   },
+   {
+    "date": "2021-07",
+    "amountM": 80,
+    "label": "Series C",
+    "src": 3
+   },
+   {
+    "date": "2023-04",
+    "amountM": 75,
+    "label": "Series C",
+    "src": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2024-03",
+    "label": "RFM-1 launched — described as first commercial robotics foundation model",
+    "src": 4
+   },
+   {
+    "date": "2024-08",
+    "label": "Amazon reverse-acquihire: hires 3 founders + ~25% of staff, non-exclusive license to Covariant Brain/RFM-1",
+    "src": 0
+   }
+  ],
+  "rank": 6,
+  "tier": "site",
+  "tags": [
+   "Practice",
+   "Deploy",
+   "Improve"
+  ],
+  "acq": true,
+  "radar": false
+ },
+ {
+  "name": "Dyna Robotics",
+  "country": "USA",
+  "stage": "Series A",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.dyna.co/",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Continual Learning"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Dyna deploys pairs of stationary robot arms at customer sites (hotels, restaurants, laundromats, gyms) running single tasks like folding and food prep; its DYNA-1 foundation model is trained on the resulting production data (10,000+ hours generated daily) and iterated across hundreds of model variants weekly, spanning PRACTICE (foundation-model training) through DEPLOY (commercial sites) into IMPROVE (continuous production data flywheel).",
+  "flagship": "DYNA-1",
+  "people": "Lindon Gao (CEO/co-founder, ex-Caper AI), York Yang (co-founder, ex-Caper AI), Jason Ma (co-founder, ex-DeepMind)",
+  "founded": 2024,
+  "hq": "Redwood City, USA",
+  "raised": 143.5,
+  "raisedD": "$143.5M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Founders Gao and Yang previously sold Caper AI for $350M. Aggregators (Crunchbase/Sacra) cite a post-money valuation over $600M for the Series A, but this was not confirmed in the primary/press releases checked, so left undisclosed. Headcount trackers conflict (46 PitchBook vs 126 Tracxn, mid-2026).",
+  "sources": [
+   [
+    "Dyna Robotics Raises $120M Series A · 2025-09-15",
+    "https://www.prnewswire.com/news-releases/dyna-robotics-raises-120-million-to-advance-robotic-foundation-models-on-the-path-to-physical-artificial-general-intelligence-302556817.html"
+   ],
+   [
+    "DYNA closes $120M Series A (company blog)",
+    "https://www.dyna.co/news/series-a"
+   ],
+   [
+    "Dyna Robotics Raises $23.5M Seed · 2025-03-25",
+    "https://www.prnewswire.com/news-releases/dyna-robotics-raises-23-5-million-to-commercialize-embodied-ai-with-low-cost-robots-302410263.html"
+   ],
+   [
+    "Dyna Robotics headcount profile",
+    "https://tracxn.com/d/companies/dyna-robotics/__SQrTmIVEp-T3NjnfTDEZIWLc4jDDBWe4IodOJneuT1Y"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-03",
+    "amountM": 23.5,
+    "label": "Seed",
+    "src": 2
+   },
+   {
+    "date": "2025-09",
+    "amountM": 120,
+    "label": "Series A",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-09",
+    "label": "DYNA-1: 99%+ success rate over 24hr non-stop operation; robots running 16hr/day at hotels, restaurants, laundromats, gyms",
+    "src": 0
+   }
+  ],
+  "rank": 7,
+  "tier": "site",
+  "tags": [
+   "Practice",
+   "Deploy",
+   "Improve"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Micropsi Industries",
+  "country": "Germany",
+  "stage": "Series B",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.micropsi-industries.com/",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Industrial",
+   "Edge"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "MIRAI captures a human physically guiding a robot arm through a task (OBSERVE), turns that demonstration into a vision-based control policy (PRACTICE), and runs it on off-the-shelf industrial arms so they keep working through part variance, reflections, transparency and lighting changes on the factory floor without CAD or camera calibration (DEPLOY).",
+  "flagship": "MIRAI / MIRAI 2",
+  "people": "Ronnie Vuine (Founder/CEO), Dominik Welland, Joscha Bach, Priska Herger, Ulrik Deichsel — cognitive-science and ML backgrounds",
+  "founded": 2014,
+  "hq": "Berlin, Germany",
+  "raised": 45,
+  "raisedD": "$45M",
+  "raisedC": "med",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Backed by Metaplanet, VSquared, Ahren Innovation Capital and others; ~$45M raised across 5 rounds through 2023 is a secondary (Tracxn) aggregation, not company-confirmed, and no valuation is disclosed anywhere. Headcount ('50+' per LinkedIn vs. ~30 in 2020 per Tracxn) is likewise an estimate. Deployed for insertion, screwdriving, leak-detection and end-of-line testing at Siemens Energy, ZF, BSH, Mercedes-Benz, BMW, Tesla, Denso, Nissan and Flex.",
+  "sources": [
+   [
+    "Micropsi Raises $30M Series B Funding — Businesswire · 2022-02-10",
+    "https://www.businesswire.com/news/home/20220210005909/en/Micropsi-Raises-$30M-Series-B-Funding-to-Scale-Industrial-Automation-with-Human-Motion-Trained-Robots"
+   ],
+   [
+    "Micropsi Industries raises $6M for robot control software — The Robot Report",
+    "https://www.therobotreport.com/micropsi-industries-robot-control/"
+   ],
+   [
+    "Company site — product/customers",
+    "https://www.micropsi-industries.com/"
+   ],
+   [
+    "Micropsi Industries funding & investors — Tracxn",
+    "https://tracxn.com/d/companies/micropsi-industries/__YlFnXjiE2ndnt16SdZx-F-2aC3ENnYv01-V4dFxWXvA/funding-and-investors"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2022-02",
+    "amountM": 30,
+    "label": "Series B",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "rank": 8,
+  "tier": "site",
+  "tags": [
+   "Observe",
+   "Practice",
+   "Deploy"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Genesis AI",
+  "country": "USA",
+  "stage": "Seed",
+  "head": "51–200",
+  "headC": "hi",
+  "url": "https://www.genesis.ai",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Sim",
+   "Data"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "Full-stack physical-AI lab: OBSERVE via its own human-scale dexterous 'Genesis Hand 1.0' capturing human manipulation data, PRACTICE via high-fidelity physics simulation plus its robotics foundation model (GENE-26.5) trained on sim+real data; targeting DEPLOY as a horizontal robotics platform, with plans to open-source parts of the data engine and model (not yet released).",
+  "flagship": "GENE-26.5 · Genesis Hand 1.0",
+  "people": "Zhou Xian (CEO, CMU robotics PhD), Théophile Gervet (co-founder, ex-Mistral AI research scientist) — team also from NVIDIA, Google, MIT, Stanford, Columbia, UMD",
+  "founded": 2024,
+  "hq": "Paris, France + Palo Alto, USA",
+  "raised": 105,
+  "raisedD": "$105M",
+  "raisedC": "hi",
+  "val": 3,
+  "valD": "~$3B",
+  "valC": "med",
+  "oss": false,
+  "note": "Seed co-led by Eclipse and Khosla Ventures with Bpifrance, HSG, and angels Eric Schmidt and Xavier Niel. As of Jul 23, 2026 (Bloomberg) in talks to raise ~$500M at a $3B pre-money valuation (reportedly Premji Invest-led) — still unconfirmed/unclosed as of Sep 2026, so cumulative 'raised' excludes it. Pivoted to full-stack hardware (own dexterous hand) in May 2026; targets first customer deployments by end of 2026. HQ genuinely dual French/American; country field defaults to USA for taxonomy purposes only.",
+  "sources": [
+   [
+    "Genesis AI emerges from stealth with $105M · 2025-07-01",
+    "https://www.genesis.ai/press/genesis-ai-emerges-from-stealth-with-dollar105m-to-build-universal-robotics-found"
+   ],
+   [
+    "Bloomberg: Genesis in talks to raise ~$500M at $3B · 2026-07-23",
+    "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million"
+   ],
+   [
+    "TechCrunch: Genesis AI has gone full stack, demo shows · 2026-05-06",
+    "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
+   ],
+   [
+    "RoboticsTomorrow: Genesis AI unveils GENE-26.5 · 2026-05-06",
+    "https://www.roboticstomorrow.com/news/2026/05/06/genesis-ai-unveils-gene-265-the-first-ai-brain-to-enable-robots-with-human-level-physical-manipulation-capabilities/26519/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-07",
+    "amountM": 105,
+    "label": "Seed (valuation undisclosed)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-05",
+    "label": "GENE-26.5 + Genesis Hand 1.0 unveiled (cooking, Rubik's Cube, piano demos); pivot to full-stack hardware",
+    "src": 2
+   }
+  ],
+  "rank": 9,
+  "tier": "gen",
+  "tags": [
+   "Observe",
+   "Practice"
+  ],
+  "radar": false
+ },
+ {
+  "name": "Mimic Robotics",
+  "country": "Switzerland",
+  "stage": "Seed",
+  "head": "11–50",
+  "headC": "lo",
+  "url": "https://mimicrobotics.com/",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Teleop",
+   "Industrial"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Mimic pairs AI-driven dexterous robotic hands with off-the-shelf robot arms rather than building full humanoids, training its foundation model on OBSERVE-stage real-world human teleoperation demonstrations; it is now piloting that PRACTICE/early-DEPLOY stack with Fortune 500 manufacturers, global automotive brands, and multinational logistics providers.",
+  "flagship": "mimic dexterous hand + foundation model",
+  "people": "Stefan Weirich (CEO), Stephan-Daniel Gravert (CPO), Elvis Nava (CTO), Benedek Forrai (Founding Engineer); Robert Katzschmann (ETH Zurich, scientific advisor)",
+  "founded": 2024,
+  "hq": "Zurich, Switzerland",
+  "raised": 20,
+  "raisedD": "$20M+",
+  "raisedC": "med",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "$16M/€13.8M figures are USD/EUR reporting of the same Nov 2025 seed round; total funding 'over $20M' (company-stated) includes prior funding plus non-dilutive Swiss innovation-agency grants. Company stated 25 people at seed close; third-party trackers show 34–59 by 2026 (band spans the 50 boundary). No named pilot customers disclosed.",
+  "sources": [
+   [
+    "USD 16 million for Mimic Robotics — VentureLab Swiss",
+    "https://www.venturelab.swiss/USD-16-million-for-Mimic-Robotics-to-bring-physical-AI-to-industry"
+   ],
+   [
+    "mimic robotics raises $16 million (company release) · 2025-11-03 — GlobeNewswire",
+    "https://www.globenewswire.com/news-release/2025/11/03/3179052/0/en/mimic-robotics-raises-16-million-to-deploy-frontier-physical-AI-across-industries.html"
+   ],
+   [
+    "Swiss startup mimic lands €13.8 million — EU-Startups",
+    "https://www.eu-startups.com/2025/11/swiss-startup-mimic-lands-e13-8-million-to-deliver-robots-that-can-finally-do-what-people-do/"
+   ],
+   [
+    "Mimic Robotics company profile — Tracxn",
+    "https://tracxn.com/d/companies/mimicrobotics/__Olg6fxMKBM7JOp_XzNVPUiqMvh4Uri0_g-K3Yg8hkW4"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-11",
+    "amountM": 16,
+    "label": "Seed",
+    "src": 1
+   }
+  ],
+  "events": [],
+  "rank": 10,
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Observe"
+  ],
+  "radar": false
+ },
+ {
+  "name": "CarbonSix",
+  "country": "Korea",
+  "stage": "Series A",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://us.acrofan.com/detail.php?number=1015857",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Industrial",
+   "Data"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "Develops robot foundation-model AI products and automation tools deployed directly on manufacturing floors, built around a data flywheel where use of its on-site tools generates the work data that improves the model.",
+  "flagship": "Carbon6 robot foundation model / manufacturing automation tools",
+  "people": "",
+  "founded": 2023,
+  "hq": "Seoul, Korea",
+  "raised": 40,
+  "raisedD": "$40M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Series A co-led by DSC Investment and LB Investment, with IMM Investment, Korea Development Bank, SV Investment, and two US funds (Cortentia, ASQ). Founding year and founder names were not confirmed in available sources — flagged as uncertain estimates.",
+  "sources": [
+   [
+    "CarbonSix Secures $40M Series A to Deploy Physical AI Across Global Manufacturing · Acrofan",
+    "https://us.acrofan.com/detail.php?number=1015857"
+   ],
+   [
+    "Robot Foundation Model Startup Carbon6 Raises 60 Billion Won · Seoul Economic Daily · 2026-07-02",
+    "https://en.sedaily.com/finance/2026/07/02/robot-foundation-model-startup-carbon6-raises-60-billion-won"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-07",
+    "amountM": 40,
+    "label": "Series A",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "rank": 11,
+  "tier": "site",
+  "tags": [
+   "Practice",
+   "Improve",
+   "Deploy"
+  ],
+  "radar": false
+ },
+ {
+  "name": "RLWRLD",
+  "country": "Korea",
+  "stage": "Seed",
+  "head": "11–50",
+  "headC": "lo",
+  "url": "https://techcrunch.com/2025/04/14/rlwrld-raises-14-4m-to-build-foundation-model-for-robotics",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Industrial",
+   "Continual Learning"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "Builds a Robotics Foundation Model (RFM) trained on manufacturing-floor data, plus an RFM learning platform and AI-robot interoperability layer, aiming to deploy AI-driven industrial robots at scale by around 2028.",
+  "flagship": "Robotics Foundation Model (RFM)",
+  "people": "Jun-Hee Ryu (CEO; KAIST; founded Olaworks, acquired by Intel)",
+  "founded": 2024,
+  "hq": "Seoul, Korea",
+  "raised": 41,
+  "raisedD": "$41M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Seed-stage but backed by major Korean/Japanese industrials (LG, SK Telecom, KDDI, ANA, Mitsui Chemicals, Shimadzu in Seed 1; CJ Logistics, Kakao, Lotte, Hanwha, Hyosung in Seed 2) rather than pure VC — a strategic-heavy cap table typical of this sector.",
+  "sources": [
+   [
+    "RLWRLD raises $14.4M to build foundation model for robotics · TechCrunch · 2025-04-14",
+    "https://techcrunch.com/2025/04/14/rlwrld-raises-14-4m-to-build-foundation-model-for-robotics"
+   ],
+   [
+    "RLWRLD Raises $26M Seed 2, Bringing Total Funding to $41M · GlobeNewswire · 2026-02-26",
+    "https://www.globenewswire.com/news-release/2026/02/26/3245146/0/en/RLWRLD-Raises-26M-Seed-2-Bringing-Total-Funding-to-41M-to-Scale-Industrial-Robotics-AI.html"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-04",
+    "amountM": 14.8,
+    "label": "Seed 1",
+    "src": 0
+   },
+   {
+    "date": "2026-02",
+    "amountM": 26,
+    "label": "Seed 2",
+    "src": 1
+   }
+  ],
+  "events": [],
+  "rank": 12,
+  "tier": "site",
+  "tags": [
+   "Practice",
+   "Improve"
+  ],
+  "radar": false
+ },
+ {
+  "name": "1X Technologies",
+  "country": "USA",
+  "stage": "Series B",
+  "head": "1,001–5,000",
+  "headC": "lo",
+  "url": "https://www.1x.tech",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Home",
+   "Manipulation"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Core bet is the 1X World Model, a generative video-pretrained world model predicting action outcomes without large teleop datasets (practice/sim layer); NEO and EVE are the deployed bodies, and an open-sourced baseline (1xgpt) crowdsources the improve loop.",
+  "flagship": "NEO · EVE · 1X World Model",
+  "people": "Bernt Øivind Børnich (founder/CEO, Univ. of Oslo robotics); bootstrapped ~9 years before institutional VC, rebranded from Halodi Robotics in 2022",
+  "founded": 2014,
+  "hq": "Palo Alto, USA",
+  "raised": 136.5,
+  "raisedD": "$136.5M",
+  "raisedC": "hi",
+  "val": 0.82,
+  "valD": "$820M (2024-01)",
+  "valC": "hi",
+  "oss": true,
+  "note": "Backed by OpenAI Startup Fund, Tiger Global, EQT Ventures, Samsung NEXT. EQT converted from investor to anchor customer (Dec 2025), committing portfolio companies to up to 10,000 NEO units 2026-2030 — a forward commitment, not yet delivered.",
+  "sources": [
+   [
+    "1X Series B $100M · 2024-01-13",
+    "https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding"
+   ],
+   [
+    "Wikipedia — 1X Technologies",
+    "https://en.wikipedia.org/wiki/1X_Technologies"
+   ],
+   [
+    "Sacra — 1X Technologies profile",
+    "https://sacra.com/c/1x-technologies/"
+   ],
+   [
+    "The Information — 1X targets $1B raise · 2025-09",
+    "https://www.theinformation.com/articles/humanoid-robot-developer-1x-targets-1-billion-new-funding"
+   ],
+   [
+    "TechStartups — 1X raising $1B at $10B valuation · 2025-09-24",
+    "https://techstartups.com/2025/09/24/norways-1x-raising-1b-at-10b-valuation-to-bring-humanoid-robot-neo-into-homes/"
+   ],
+   [
+    "GitHub — 1x-technologies/1xgpt",
+    "https://github.com/1x-technologies/1xgpt"
+   ],
+   [
+    "The Robot Report — NEO Beta home pilots",
+    "https://www.therobotreport.com/1x-unveils-neo-beta-as-it-prepares-to-deploy-into-home-pilots/"
+   ],
+   [
+    "Robotics & Automation News — NEO launch · 2025-10-29",
+    "https://roboticsandautomationnews.com/2025/10/29/1x-launches-new-humanoid-robot-to-redefine-life-at-home/96025/"
+   ],
+   [
+    "Contrary Research — 1X company profile",
+    "https://research.contrary.com/company/1x"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2023-03",
+    "amountM": 23.5,
+    "label": "Series A2",
+    "src": 1
+   },
+   {
+    "date": "2024-01",
+    "amountM": 100,
+    "label": "Series B",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2024-08",
+    "label": "NEO Beta prototype unveiled",
+    "src": 6
+   },
+   {
+    "date": "2025-02",
+    "label": "NEO Gamma design refresh unveiled",
+    "src": 1
+   },
+   {
+    "date": "2025-10",
+    "label": "NEO opens for consumer pre-order ($20,000 or $499/mo)",
+    "src": 7
+   },
+   {
+    "date": "2025-12",
+    "label": "EQT commits portfolio companies to up to 10,000 NEO units 2026-2030",
+    "src": 2
+   },
+   {
+    "date": "2026-01",
+    "label": "1X releases 1XWM world model and open dataset/challenge",
+    "src": 5
+   },
+   {
+    "date": "2026-04",
+    "label": "Hayward, CA NEO factory opens, targeting 10,000 units/yr",
+    "src": 8
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Practice",
+   "Improve"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Affordance Inc.",
+  "country": "Korea",
+  "stage": "Angel",
+  "head": "2–10",
+  "headC": "lo",
+  "url": "https://arxiv.org/abs/2604.28197",
+  "seg": "infra",
+  "dom": [
+   "Manipulation",
+   "Edge",
+   "Continual Learning"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "Apprentice: a deployability stack for site-bounded expertise — cheap human-demonstration capture (9.8× cheaper than OmniRobotHome), autoresearch that upgrades the whole deployed algorithm from sparse human feedback, and an automated algorithm-to-hardware pipeline (H100 → RTX 3090 → FPGA).",
+  "flagship": "Apprentice · Human-Feedback Memory Model (HFMM)",
+  "people": "Sookwan Han (CEO; OmniRobotHome co-first author, CVPR/ICCV/ECCV orals), Junsu Kim (ex-Google DeepMind, IMO 2020 silver), Sihun Lim (ex-Rebellions)",
+  "founded": 2026,
+  "hq": "Seoul, Korea",
+  "raised": 0,
+  "raisedD": "undisclosed",
+  "raisedC": "lo",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Paid pilots reported: $10k closed and >$200k milestone-based under negotiation; top-5 finalist in the AMD-backed agentic chip-design contest (results 2026-09-09). Angel round of $1.1M targeted as a six-month bridge to seed. All figures self-reported from the company deck (v13), not independently verified.",
+  "sources": [
+   [
+    "OmniRobotHome · arXiv 2604.28197 · 2026-04",
+    "https://arxiv.org/abs/2604.28197"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2026-04",
+    "label": "OmniRobotHome preprint (arXiv 2604.28197)",
+    "src": 0
+   }
+  ],
+  "radar": true,
+  "tier": "site",
+  "tags": [
+   "Observe",
+   "Practice",
+   "Deploy",
+   "Improve"
+  ],
+  "rank": null
+ },
+ {
+  "name": "AgiBot",
+  "country": "China",
+  "stage": "Series C+",
+  "head": "1,001–5,000",
+  "headC": "lo",
+  "url": "https://www.agibot.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Manipulation",
+   "Data"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Spans embodiment plus data plus model: hardware lines (Yuanzheng, Lingxi, Genie) paired with the Genie Operator (GO-2) foundation model and the open AgiBot World dataset, covering observe (large-scale data collection) through practice (foundation-model training) to early deploy in its own factories.",
+  "flagship": "Yuanzheng A2 · Genie Operator (GO-2)",
+  "people": "Deng Taihua (chairman/CEO, 27-year Huawei veteran, controlling shareholder); Peng Zhihui aka \"稚晖君\" (co-founder/CTO, ex-Huawei 'genius youth' engineer); Yan Weixin (chief scientist, Shanghai AI Lab)",
+  "founded": 2023,
+  "hq": "Shanghai, China",
+  "raised": 84,
+  "raisedD": "$84M+",
+  "raisedC": "med",
+  "val": 2.1,
+  "valD": "$2.1B (2025-03)",
+  "valC": "hi",
+  "oss": true,
+  "note": "Xi Jinping visited AgiBot's facility in April 2025, signaling state attention though no confirmed direct state equity found. Revenue trajectory (¥300K 2023 to >¥1B in Q1 2026 alone) is company self-reported and unaudited pre-IPO. Round-naming (11+ 'A'-suffix tranches) is unusually fragmented across outlets.",
+  "sources": [
+   [
+    "Sohu — AgiBot HK listing process · 2026-07-29",
+    "https://www.sohu.com/a/1056144938_122295434"
+   ],
+   [
+    "Sina Finance — AgiBot headcount · 2026-03-17",
+    "https://finance.sina.com.cn/wm/2026-03-17/doc-inhrhxzp8114726.shtml"
+   ],
+   [
+    "Wikipedia — AgiBot",
+    "https://en.wikipedia.org/wiki/AgiBot"
+   ],
+   [
+    "BJ News — AgiBot Series B, Tencent-led · 2025-03-24",
+    "https://m.bjnews.com.cn/detail/1742817864168874.html"
+   ],
+   [
+    "PR Newswire — AgiBot new-gen embodied AI robots/models",
+    "https://www.prnewswire.com/news-releases/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-accelerating-real-world-deployment-of-physical-ai-302746174.html"
+   ],
+   [
+    "36kr pitchhub — AgiBot angel/A+++ round",
+    "https://pitchhub.36kr.com/project/2228936046528520"
+   ],
+   [
+    "AGIBOT WORLD 2026 dataset open-source",
+    "https://www.therobotreport.com/agibot-world-2026-dataset-open-source-accelerate-embodied-ai-development/"
+   ],
+   [
+    "Zhiyuan Robot Revenue 2025: $10.8M ARR, $6.4B Valuation (2025-10-10)",
+    "https://getlatka.com/companies/agibot.com"
+   ],
+   [
+    "AgiBot 2026 Company Profile, PitchBook",
+    "https://pitchbook.com/profiles/company/528463-99"
+   ],
+   [
+    "AGIBOT rolls out 10,000th humanoid robot",
+    "https://www.therobotreport.com/agibot-rolls-out-10000th-humanoid-robot/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2023-12",
+    "amountM": 84,
+    "label": "Series A+++",
+    "src": 5
+   },
+   {
+    "date": "2025-03",
+    "amountM": 0,
+    "label": "Series B (Tencent-led, amount undisclosed; ¥15B/~$2.1B valuation)",
+    "src": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-11",
+    "label": "106.286km continuous-walk Guinness World Record set",
+    "src": 2
+   },
+   {
+    "date": "2026-07",
+    "label": "Initiates Hong Kong IPO listing process (HKEX Chapter 18C)",
+    "src": 0
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Agility Robotics",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.agilityrobotics.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Logistics",
+   "Manipulation"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Builds Digit, a bipedal humanoid for warehouse tote/case handling; observe and practice happen via real customer-site operation, deploy via robots-as-a-service contracts, and improve via fleet data from GXO, Schaeffler, and other sites.",
+  "flagship": "Digit",
+  "people": "Peggy Johnson (CEO, ex-Magic Leap, ex-Microsoft EVP); Jonathan Hurst (co-founder/Chief Robot Officer, Oregon State University); Damion Shelton (co-founder/Chairman); Pras Velagapudi (CTO, PhD Robotics CMU)",
+  "founded": 2015,
+  "hq": "Salem, USA",
+  "raised": 641,
+  "raisedD": "~$641M",
+  "raisedC": "med",
+  "val": 2.5,
+  "valD": "$2.5B",
+  "valC": "hi",
+  "oss": false,
+  "note": "Backed by Amazon's Industrial Innovation Fund, SoftBank, DCVC, Playground Global, and customer-investor Schaeffler. Agreed June 24, 2026 to go public via SPAC merger with Churchill Capital Corp XI (~$620M gross proceeds); deal not yet closed as of Sept 2026. Deployment-scale figures (65,000+ hours, nine facilities, >$300M in orders) are company/SEC-filing self-reported.",
+  "sources": [
+   [
+    "Agility Robotics — company page",
+    "https://www.agilityrobotics.com/company"
+   ],
+   [
+    "Agility Robotics — GXO multi-year RaaS agreement · 2024-06-27",
+    "https://www.agilityrobotics.com/content/gxo-signs-industry-first-multi-year-agreement-with-agility-robotics"
+   ],
+   [
+    "Agility Robotics — Schaeffler strategic investment · 2024-11-13",
+    "https://www.agilityrobotics.com/content/agility-robotics-announces-strategic-investment-and-agreement-with-motion-technology-company-schaeffler-group"
+   ],
+   [
+    "SEC/Churchill Capital Corp XI joint press release · 2026-06-24",
+    "https://www.sec.gov/Archives/edgar/data/2074973/000121390026071290/ea029548401ex99-1.htm"
+   ],
+   [
+    "ONAMI — Agility Robotics Series A $8M · 2018",
+    "https://onami.us/onami-success-stories/agility-robotics-secures-8m-series-a-funding"
+   ],
+   [
+    "GeekWire — Agility raising $400M Series C · 2025",
+    "https://www.geekwire.com/2025/agility-robotics-reportedly-raising-400m-for-humanoid-warehouse-robots/"
+   ],
+   [
+    "Crunchbase — Agility Robotics Series B",
+    "https://www.crunchbase.com/funding_round/agility-robotics-series-b--da34c226"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2022-04",
+    "amountM": 150,
+    "label": "Series B",
+    "src": 6
+   },
+   {
+    "date": "2025-03",
+    "amountM": 400,
+    "label": "Series C",
+    "src": 5
+   }
+  ],
+  "events": [
+   {
+    "date": "2024-06",
+    "label": "GXO signs industry-first multi-year RaaS deployment",
+    "src": 1
+   },
+   {
+    "date": "2024-11",
+    "label": "Schaeffler purchase agreement and minority investment, targeting 100-plant deployment by 2030",
+    "src": 2
+   },
+   {
+    "date": "2026-06",
+    "label": "SPAC merger agreement with Churchill Capital Corp XI; discloses 65,000+ operating hours across 9 facilities and >$300M contracted Digit v5 orders",
+    "src": 3
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Body",
+   "Deploy",
+   "Improve"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Amazon",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "1000+",
+  "headC": "lo",
+  "url": "https://www.geekwire.com/2024/amazon-hires-covariant-founders-inks-licensing-deal-with-robotics-ai-startup-in-latest-reverse-acquihire-deal/",
+  "seg": "frontier",
+  "dom": [
+   "Logistics",
+   "Manipulation",
+   "Edge"
+  ],
+  "lvl": 4,
+  "target": 4,
+  "loop": "Fulfillment Technologies & Robotics team runs 750,000+ warehouse robots and, after an Aug 2024 reverse-acquihire of Covariant's founders (~25% of Covariant's staff) plus a non-exclusive license to Covariant's foundation model, is folding Covariant's picking/vision AI into Amazon's warehouse fleet.",
+  "flagship": "Covariant Brain / RFM-1 (licensed) + Amazon warehouse robot fleet",
+  "people": "Pieter Abbeel, Peter Chen, Rocky Duan (ex-Covariant founders, now at Amazon Fulfillment Technologies & Robotics)",
+  "founded": 1994,
+  "hq": "Seattle, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": false,
+  "note": "Deal was structured as hiring plus a non-exclusive license, not a full acquisition; Covariant continues operating independently for other customers. The 750,000-robot figure is Amazon's own aggregate fulfillment-center count, not specific to Covariant-derived tech.",
+  "sources": [
+   [
+    "Amazon hires Covariant founders, inks AI licensing deal · GeekWire · 2024-09",
+    "https://www.geekwire.com/2024/amazon-hires-covariant-founders-inks-licensing-deal-with-robotics-ai-startup-in-latest-reverse-acquihire-deal/"
+   ],
+   [
+    "Amazon's warehouse robot army keeps growing · Yahoo/AP",
+    "https://tech.yahoo.com/science/articles/amazons-warehouse-robot-army-keeps-101712514.html"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2024-09",
+    "label": "Amazon hires Covariant founders + ~25% of staff, licenses Covariant Brain",
+    "src": 0
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Deploy",
+   "Practice",
+   "Body"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Apple",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "10,001+",
+  "headC": "lo",
+  "url": "https://github.com/apple/ml-egodex",
+  "seg": "frontier",
+  "dom": [
+   "Data",
+   "Manipulation",
+   "Home"
+  ],
+  "lvl": 0,
+  "target": 1,
+  "loop": "EgoDex: 829 hours of Apple Vision Pro egocentric video with paired 3D hand/finger tracking across 194 tabletop manipulation tasks (338,000 demonstrations), released to substitute cheap human video for expensive robot teleoperation data.",
+  "flagship": "EgoDex",
+  "people": "Apple internal ML research team (paper authors, no named PI headlined in coverage)",
+  "founded": 1976,
+  "hq": "Cupertino, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": true,
+  "note": "Single dated dataset release, not an ongoing product line — included per brief's 'only if real dated release' criterion. Collected entirely via consumer Vision Pro hardware rather than a bespoke capture rig.",
+  "sources": [
+   [
+    "EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video (arXiv 2505.11709, 2025-05)",
+    "https://arxiv.org/html/2505.11709v3"
+   ],
+   [
+    "apple/ml-egodex GitHub",
+    "https://github.com/apple/ml-egodex"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2025-05",
+    "label": "EgoDex dataset + paper released publicly",
+    "src": 0
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Apptronik",
+  "country": "USA",
+  "stage": "Series A",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://apptronik.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Industrial",
+   "Logistics"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Builds the body (Apollo) and its own teleop/data-collection and deployment-control suite, but sources much of its AI 'brain' from a strategic partnership with Google DeepMind (Gemini Robotics), a more externally-dependent model stack than Figure or 1X.",
+  "flagship": "Apollo",
+  "people": "Jeff Cardenas (co-founder/CEO); Dr. Nick Paine (co-founder/CTO, ex-NASA JSC Valkyrie); Dr. Luis Sentis (co-founder, UT Austin Human-Centered Robotics Lab); spun out of UT Austin",
+  "founded": 2016,
+  "hq": "Austin, USA",
+  "raised": 963,
+  "raisedD": "~$963M",
+  "raisedC": "hi",
+  "val": 5.4,
+  "valD": "~$5.4B",
+  "valC": "med",
+  "oss": false,
+  "note": "Backed heavily by Google/Google DeepMind, Mercedes-Benz, and now AT&T Ventures, John Deere, and Qatar Investment Authority. As of Feb 2025, none of its pilots (Mercedes-Benz, GXO, Jabil) had graduated beyond pilot stage per TechCrunch; commercial-quantity delivery targeted for 2027.",
+  "sources": [
+   [
+    "TechCrunch — Apptronik raises $350M · 2025-02-13",
+    "https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/"
+   ],
+   [
+    "PR Newswire — Mercedes-Benz commercial pilot · 2024",
+    "https://www.prnewswire.com/news-releases/apptronik-and-mercedes-benz-enter-commercial-agreement-that-will-pilot-apptroniks-apollo-humanoid-robot-in-mercedes-benz-manufacturing-facilities-302089972.html"
+   ],
+   [
+    "Bloomberg — Apptronik raises $520M · 2026-02-11",
+    "https://www.bloomberg.com/news/articles/2026-02-11/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids"
+   ],
+   [
+    "Apptronik — Series A extension closes >$935M · 2026-02-11",
+    "https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a"
+   ],
+   [
+    "Apptronik — Google DeepMind Robotics partnership · 2024-12",
+    "https://apptronik.com/news-collection/apptronik-partners-with-google-deepmind-robotics"
+   ],
+   [
+    "Robotics & Automation News — Robot Park w/ Google DeepMind · 2026-07-06",
+    "https://roboticsandautomationnews.com/2026/07/06/apptronik-launches-robot-park-to-train-apollo-humanoid-robots-with-google-deepmind/103069/"
+   ],
+   [
+    "Tracxn — Apptronik funding & investors",
+    "https://tracxn.com/d/companies/apptronik/__xg1Jle1Smhww5NPld0znainPTLWHoY0trFk77rrvP3M/funding-and-investors"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-02",
+    "amountM": 415,
+    "label": "Series A",
+    "src": 0
+   },
+   {
+    "date": "2026-02",
+    "amountM": 520,
+    "label": "Series A extension",
+    "src": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2024-03",
+    "label": "Mercedes-Benz commercial pilot agreement; Apollo trials at Berlin-Marienfelde",
+    "src": 1
+   },
+   {
+    "date": "2024-12",
+    "label": "Strategic partnership with Google DeepMind Robotics announced",
+    "src": 4
+   },
+   {
+    "date": "2026-07",
+    "label": "Robot Park training partnership with Google DeepMind launched; Apollo 2 headlines Gemini Robotics 2",
+    "src": 5
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Observe",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Boston Dynamics",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "1,001–5,000",
+  "headC": "med",
+  "url": "https://www.bostondynamics.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Mobile",
+   "Industrial"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Builds Atlas (now all-electric, 56 DoF, dexterous hands with tactile sensing) for practice/deploy, paired with Orbit fleet-management software connecting robots to customer MES/WMS systems for the improve loop; partnering with Google DeepMind for the perception/cognition layer.",
+  "flagship": "Atlas (electric)",
+  "people": "Amanda McMaster (interim CEO since Feb 2026, CFO since 2020); Marc Raibert (founder, now executive director of the Hyundai-funded Robotics and AI Institute)",
+  "founded": 1992,
+  "hq": "Waltham, USA",
+  "raised": 917,
+  "raisedD": "$917M",
+  "raisedC": "med",
+  "val": 1.1,
+  "valD": "$1.1B (2020)",
+  "valC": "hi",
+  "oss": false,
+  "note": "80% owned by Hyundai Motor Group (deal closed June 2021), ~20% retained by SoftBank. New electric Atlas's first two committed 2026 customers are Hyundai's own Robotics Metaplant and Google DeepMind (a technology partner, not an independent paying customer) — deployment claims should be read as largely intra-group/partner rollout.",
+  "sources": [
+   [
+    "Boston Dynamics — Atlas unveil blog · 2026-01-05",
+    "https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/"
+   ],
+   [
+    "Wikipedia — Boston Dynamics",
+    "https://en.wikipedia.org/wiki/Boston_Dynamics"
+   ],
+   [
+    "PR Newswire — Hyundai completes acquisition · 2021-06-21",
+    "https://www.prnewswire.com/news-releases/hyundai-motor-group-completes-acquisition-of-boston-dynamics-from-softbank-301316206.html"
+   ],
+   [
+    "PR Newswire — Hyundai to acquire controlling interest · 2020-12-11",
+    "https://www.prnewswire.com/news-releases/hyundai-motor-group-to-acquire-controlling-interest-in-boston-dynamics-from-softbank-group-opening-a-new-chapter-in-the-robotics-and-mobility-industry-301191028.html"
+   ],
+   [
+    "TechCrunch — Boston Dynamics CEO Robert Playter steps down · 2026-02-10",
+    "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2020-12",
+    "amountM": 880,
+    "label": "Hyundai acquisition (80% stake)",
+    "src": 3
+   }
+  ],
+  "events": [
+   {
+    "date": "2020-12",
+    "label": "Hyundai announces ~80% stake acquisition, valuing company at $1.1B",
+    "src": 3
+   },
+   {
+    "date": "2021-06",
+    "label": "Hyundai completes acquisition, becomes controlling shareholder",
+    "src": 2
+   },
+   {
+    "date": "2026-01",
+    "label": "New all-electric Atlas unveiled; 2026 deployment committed to Hyundai RMAC and Google DeepMind",
+    "src": 0
+   },
+   {
+    "date": "2026-02",
+    "label": "CEO Robert Playter steps down after 30+ years; CFO Amanda McMaster named interim CEO",
+    "src": 4
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Deploy",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Build AI",
+  "country": "USA",
+  "stage": "Seed",
+  "head": "11-50",
+  "headC": "lo",
+  "url": "https://www.build.ai/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Industrial",
+   "Field"
+  ],
+  "lvl": 1,
+  "target": 1,
+  "loop": "Custom head-mounted glasses record egocentric video from paid factory workers on real assembly/sorting/packaging lines across Southeast Asia; scaled a public dataset from 10K hours (Nov 2025) to 100K (Dec 2025) to ~1M hours (Apr 2026), released open (Apache 2.0) as raw pretraining fuel for industrial human-to-robot transfer.",
+  "flagship": "Egocentric-1M",
+  "people": "Eddy Xu (founder/CEO, Columbia dropout, age 18 at founding)",
+  "founded": 2025,
+  "hq": "San Francisco Bay Area, USA",
+  "raised": 20,
+  "raisedD": "$20M",
+  "raisedC": "lo",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": true,
+  "note": "Funding figures sourced from a journalist's social posts (Mike Kalil), not an official release — treat as secondary/lo confidence. 100K-hour tranche drew from 14,228 factory workers; 1M-hour release is the largest egocentric dataset publicly released to date per the founder's own claim.",
+  "sources": [
+   [
+    "Build AI open-sources 10,000 hours of factory-worker video (Humanoids Daily)",
+    "https://www.humanoidsdaily.com/news/build-ai-open-sources-10-000-hours-of-factory-worker-video-to-scale-robot-learning"
+   ],
+   [
+    "Mike Kalil: Build AI secures $15M to scale device production",
+    "https://x.com/mikekalilmfg/status/2001340060608704672"
+   ],
+   [
+    "builddotai/Egocentric-100K, Hugging Face",
+    "https://huggingface.co/datasets/builddotai/Egocentric-100K"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2025-11",
+    "label": "10K-hour egocentric dataset released",
+    "src": 0
+   },
+   {
+    "date": "2026-04",
+    "label": "Egocentric-1M released (~1M hours), \"internet for physical AI\"",
+    "src": 0
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Config",
+  "country": "Korea",
+  "stage": "Seed",
+  "head": "11–50",
+  "headC": "lo",
+  "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Manipulation",
+   "Teleop"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "Builds the data layer for robotics foundation models: captures human motion/manipulation data (100,000+ hours, via Vietnam and Seoul operations) and sells it, plus a planned cloud Robot-as-a-Service product, to robotics foundation-model builders.",
+  "flagship": "Config robot-motion dataset / Robot-as-a-Service (planned)",
+  "people": "Minjoon Seo (CEO; ex-Meta researcher, ex-chief scientist at TwelveLabs); co-founders ex-Waymo, Google, Naver",
+  "founded": 2025,
+  "hq": "Seoul, Korea / San Jose, USA",
+  "raised": 35,
+  "raisedD": "$35M",
+  "raisedC": "hi",
+  "val": 0.2,
+  "valD": "$200M+",
+  "valC": "med",
+  "oss": false,
+  "note": "Sells data, not a foundation model itself — backed by the VC arms of Samsung, Hyundai (ZER01NE), LG, and SK, positioning itself as neutral data-layer infrastructure (\"TSMC of robot data\") rather than a competing foundation-model shop.",
+  "sources": [
+   [
+    "Korea's biggest manufacturers back Config, the TSMC of robot data · TechCrunch · 2026-05-11",
+    "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/"
+   ],
+   [
+    "Foley Hoag Advises Config in $27M Seed Financing",
+    "https://foleyhoag.com/news-and-insights/news/2026/may/foley-hoag-advises-config-in-$27m-seed-financing-to-scale-robotic-data-operations/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-05",
+    "amountM": 27,
+    "label": "Seed",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Core Automation",
+  "country": "USA",
+  "stage": "Seed",
+  "head": "11–50",
+  "headC": "med",
+  "url": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+  "seg": "infra",
+  "dom": [
+   "Continual Learning"
+  ],
+  "lvl": 0,
+  "target": 2,
+  "loop": "PRACTICE/IMPROVE layer (pre-product): building a single model, Ceres, that merges pretraining/RL/deployment into one continuous process, aiming for on-the-fly weight updates from real-world experience with far less pretraining data. Not embodied-specific yet.",
+  "flagship": "Ceres (in development)",
+  "people": "Jerry Tworek (CEO, ex-OpenAI VP of Research), with Julia Villagra, Rohan Anil, Joanne Jang (co-founders, ex-OpenAI)",
+  "founded": 2026,
+  "hq": "San Francisco, USA",
+  "raised": 532,
+  "raisedD": "~$532M",
+  "raisedC": "hi",
+  "val": 3.62,
+  "valD": "$3.62B",
+  "valC": "med",
+  "oss": false,
+  "note": "Funding figures are fast-moving, unconfirmed press reports (no company press release with numbers found); cited targets escalated from ~$100M/$1B valuation to $300–500M/$4B to $500M–$1B/$5B+ within months of the Jan 2026 founding. Nvidia reportedly among early backers. Pre-product as of mid-2026.",
+  "sources": [
+   [
+    "SEC Form D · 2026-07",
+    "https://app.edgar.tools/filing/2148145/0002148145-26-000001/formd"
+   ],
+   [
+    "Forge financing history",
+    "https://forgeglobal.com/core-automation_ipo/"
+   ],
+   [
+    "Ex-OpenAI researcher Jerry Tworek launches Core Automation · The Decoder",
+    "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-04",
+    "amountM": 100,
+    "label": "First round",
+    "src": 1
+   },
+   {
+    "date": "2026-07",
+    "amountM": 432,
+    "label": "$432M raise at $3.62B (SEC filing)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-01",
+    "label": "Jerry Tworek leaves OpenAI to found Core Automation",
+    "src": 2
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Improve"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "DEEPX",
+  "country": "Korea",
+  "stage": "Series C+",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.linkedin.com/company/deepx-corp/",
+  "seg": "infra",
+  "dom": [
+   "Edge",
+   "Silicon",
+   "Continual Learning"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "SILICON/DEPLOY layer: DX-M1 edge NPU for on-device \"Physical AI\" inference (cameras, robots, drones); a 3-year supply deal embeds DX-series NPUs into AAEON's commercial edge boards.",
+  "flagship": "DX-M1 NPU",
+  "people": "Kim Lok-won (CEO)",
+  "founded": 2018,
+  "hq": "Seoul, Korea",
+  "raised": 80.5,
+  "raisedD": "$80.5M+",
+  "raisedC": "med",
+  "val": 0.529,
+  "valD": "$529M",
+  "valC": "med",
+  "oss": false,
+  "note": "Series D of ₩300–350bn (~$215–250M) reported in progress as of Aug 2026, not yet confirmed closed; cumulative total undisclosed beyond the 2024 Series C. Strongest robotics/physical-AI product fit of the Korean chip trio, with named commercial edge design wins.",
+  "sources": [
+   [
+    "DeepX Series C $80.5M at $529M valuation · TechCrunch 2024-05-09",
+    "https://techcrunch.com/2024/05/09/ai-chip-startup-deepx-secures-80-5m-series-c-at-a-529m-valuation"
+   ],
+   [
+    "DeepX targets ₩60bn 2026 revenue, Series D in progress · The Elec",
+    "https://www.thelec.net/news/articleView.html?idxno=6557"
+   ],
+   [
+    "DeepX secures 30+ clients for Physical AI · Seoul Economic Daily 2026-04-15",
+    "https://en.sedaily.com/technology/2026/04/15/deepx-secures-over-30-clients-aims-to-lead-koreas-physical"
+   ],
+   [
+    "DeepX 3-year NPU deal with AAEON · Seoul Economic Daily 2026-06-02",
+    "https://en.sedaily.com/technology/2026/06/02/deepx-expands-npu-deployment-in-aaeon-products-via-global"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-05",
+    "amountM": 80.5,
+    "label": "Series C",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-04",
+    "label": "30+ commercial clients secured for physical-AI NPU (DX-M1)",
+    "src": 2
+   },
+   {
+    "date": "2026-06",
+    "label": "3-year NPU supply deal with AAEON",
+    "src": 3
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Silicon",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Doosan Robotics",
+  "country": "Korea",
+  "stage": "Public",
+  "head": "501–1000",
+  "headC": "lo",
+  "url": "https://www.doosanrobotics.com/en",
+  "seg": "body",
+  "dom": [
+   "Industrial",
+   "Manipulation",
+   "Humanoid"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Publicly listed maker of collaborative robots (cobots) for palletizing, machine tending, and assembly, now pivoting toward AI: building dedicated AI/software and humanoid R&D teams and targeting commercial industrial humanoids by 2028 via the K-Humanoid Alliance.",
+  "flagship": "Doosan cobot line · industrial humanoid platform (targeted 2028)",
+  "people": "",
+  "founded": 2015,
+  "hq": "Suwon, Korea",
+  "raised": 312,
+  "raisedD": "$312M",
+  "raisedC": "hi",
+  "val": 4.57,
+  "valD": "$4.57B",
+  "valC": "med",
+  "oss": false,
+  "note": "IPO'd on KOSDAQ (454910) in 2023, South Korea's biggest IPO that year; joined the multi-company K-Humanoid Alliance (KRW 1T+ planned investment by 2030) and targets a commercial industrial humanoid launch by 2028. HQ city given as Suwon per company filings; not independently re-verified here.",
+  "sources": [
+   [
+    "Robot Maker Doubles in Debut After Biggest 2023 South Korea IPO · Yahoo Finance",
+    "https://finance.yahoo.com/news/robot-maker-doubles-debut-biggest-000832641.html"
+   ],
+   [
+    "Doosan Robotics accelerates humanoid robot development · Robotics and Automation News · 2025-05-22",
+    "https://roboticsandautomationnews.com/2025/05/22/doosan-robotics-intensifies-humanoid-development-in-ai-driven-strategic-shift/91089/"
+   ],
+   [
+    "K-Humanoid Alliance · Wikipedia",
+    "https://en.wikipedia.org/wiki/K-Humanoid_Alliance"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2023-10",
+    "amountM": 312,
+    "label": "KOSDAQ IPO",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-05",
+    "label": "Declares AI-centered strategy, plans dedicated humanoid R&D team",
+    "src": 1
+   },
+   {
+    "date": "2025-04",
+    "label": "Joins K-Humanoid Alliance",
+    "src": 2
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Body"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Encord",
+  "country": "UK",
+  "stage": "Series C+",
+  "head": "51-200",
+  "headC": "med",
+  "url": "https://encord.com/physical-ai/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Manipulation"
+  ],
+  "lvl": 1,
+  "target": 2,
+  "loop": "Data development platform for physical AI: ingests and time-syncs multi-camera video, LiDAR and robot-trajectory data, then uses SAM 2/3-based model-in-the-loop annotation to curate human-demonstration and teleop datasets for robotics and AV teams.",
+  "flagship": "Encord Physical AI Data Platform",
+  "people": "Eric Landau (CEO), Ulrik Stig Hansen (President) — both ex-Imperial College London",
+  "founded": 2020,
+  "hq": "London, UK",
+  "raised": 110,
+  "raisedD": "$110M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Originally general data-annotation/MLOps platform (SaaS labeling for computer vision); pivoted marketing hard into 'physical AI' data infrastructure through 2025-2026 as robotics demand grew. No customer-deployment numbers disclosed, only annotation-platform traction.",
+  "sources": [
+   [
+    "Physical AI data infrastructure startup Encord lands $60M (2026-02-26)",
+    "https://siliconangle.com/2026/02/26/physical-ai-data-infrastructure-startup-encord-lands-60m-accelerate-intelligent-robot-drone-development/"
+   ],
+   [
+    "Announcing Encord's $30 million Series B (2024-08-13)",
+    "https://encord.com/blog/encord-announces-30-million-series-b/"
+   ],
+   [
+    "The Data Layer for Physical AI",
+    "https://encord.com/physical-ai/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-08",
+    "amountM": 30,
+    "label": "Series B",
+    "src": 1
+   },
+   {
+    "date": "2026-02",
+    "amountM": 60,
+    "label": "Series C",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Figure AI",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "501–1,000",
+  "headC": "med",
+  "url": "https://www.figure.ai",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Manipulation",
+   "Industrial"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Builds both the brain (Helix, a vision-language-action foundation model trained on teleop + internet-scale data) and the body (Figure 03), plus BotQ, its own high-volume manufacturing line, closing observe→practice→deploy with BMW factory data feeding the improve loop.",
+  "flagship": "Figure 03 · Helix · BotQ",
+  "people": "Brett Adcock (founder/CEO, ex-Vettery, ex-Archer Aviation); engineering team drawn from Boston Dynamics, Tesla, Apple per secondary reporting",
+  "founded": 2022,
+  "hq": "San Jose, USA",
+  "raised": 1845,
+  "raisedD": "~$1.85B",
+  "raisedC": "med",
+  "val": 39,
+  "valD": "$39B",
+  "valC": "hi",
+  "oss": false,
+  "note": "Backed by Nvidia, Microsoft, OpenAI Startup Fund, Bezos, Qualcomm, Intel, Brookfield. Valuation rose ~15x in 18 months (Feb 2024 to Sept 2025); the $100M 2022 seed was Adcock's own capital per secondary sources, not a press-released round. Unit-count/deployment claims are company self-reported.",
+  "sources": [
+   [
+    "Series B $675M @ $2.6B · 2024-02-29",
+    "https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html"
+   ],
+   [
+    "TechCrunch on Series B + OpenAI collab · 2024-02-29",
+    "https://techcrunch.com/2024/02/29/figure-rides-the-humanoid-robot-hype-wave-to-2-6b-valuation-and-openai-collab/"
+   ],
+   [
+    "Series C >$1B @ $39B · 2025-09-16",
+    "https://www.prnewswire.com/news-releases/figure-exceeds-1b-in-series-c-funding-at-39b-post-money-valuation-302556936.html"
+   ],
+   [
+    "Seed/Series A recap (aggregator)",
+    "https://www.aparobot.com/articles/figure-ais-series-c-funding"
+   ],
+   [
+    "Wikipedia — Figure AI",
+    "https://en.wikipedia.org/wiki/Figure_AI"
+   ],
+   [
+    "The Robot Report — BMW deploys Figure 03",
+    "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/"
+   ],
+   [
+    "Revelio Labs headcount estimate",
+    "https://www.reveliolabs.com/companies/figure/employees/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2023-05",
+    "amountM": 70,
+    "label": "Series A",
+    "src": 3
+   },
+   {
+    "date": "2024-02",
+    "amountM": 675,
+    "label": "Series B",
+    "src": 0
+   },
+   {
+    "date": "2025-09",
+    "amountM": 1000,
+    "label": "Series C",
+    "src": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2024-02",
+    "label": "OpenAI collaboration agreement signed",
+    "src": 1
+   },
+   {
+    "date": "2025-10",
+    "label": "Figure 03 launched (3rd-gen platform)",
+    "src": 4
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Practice",
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Foxglove",
+  "country": "USA",
+  "stage": "Series B",
+  "head": "51–200",
+  "headC": "med",
+  "url": "https://foxglove.dev/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Sim"
+  ],
+  "lvl": 1,
+  "target": 2,
+  "loop": "OBSERVE/DEPLOY layer: visualization and data-management platform (Foxglove Studio) for recording, replaying and debugging robot sensor data from prototype through fleet deployment.",
+  "flagship": "Foxglove Studio",
+  "people": "Esther Weon, Adrian Macneil (co-founders, ex-Cruise)",
+  "founded": 2021,
+  "hq": "San Francisco, USA",
+  "raised": 58.7,
+  "raisedD": "$58.7M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "undisclosed",
+  "valC": "lo",
+  "oss": true,
+  "note": "Backed by Bessemer, Eclipse, Amplify; rebranded around \"Physical AI\" data infrastructure after its Series B, extending from visualization into the full data lifecycle.",
+  "sources": [
+   [
+    "Foxglove Raises $40M Series B · Businesswire 2025-11-12",
+    "https://www.businesswire.com/news/home/20251112126106/en/Foxglove-Raises-$40-Million-Series-B-to-Power-the-Future-of-Physical-AI"
+   ],
+   [
+    "Foxglove's $15M Series A",
+    "https://foxglove.dev/blog/foxgloves-15m-series-a-and-the-missing-data-stack-for-robotics"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-11",
+    "amountM": 40,
+    "label": "Series B",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "tier": "layer",
+  "tags": [
+   "Observe",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Galbot",
+  "country": "China",
+  "stage": "Series C+",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://galbot.com",
+  "seg": "body",
+  "dom": [
+   "Manipulation",
+   "Logistics",
+   "Industrial"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Pitches a single integrated 'cerebrum-cerebellum-neural-control' end-to-end embodied model (AstraBrain), driven by synthetic-data-heavy training, covering observe through deploy in one stack; G1 runs autonomous retail restocking and S1 runs autonomous operations inside a CATL battery factory.",
+  "flagship": "Galbot G1 · S1",
+  "people": "Wang He (co-founder, Tsinghua BS, Stanford PhD under Leonidas Guibas, Peking University EPIC Lab director); Yao Tengzhou (co-founder, ex-ABB robotics)",
+  "founded": 2023,
+  "hq": "Beijing, China",
+  "raised": 980,
+  "raisedD": "$980M",
+  "raisedC": "med",
+  "val": 2.8,
+  "valD": "$2.8B",
+  "valC": "med",
+  "oss": true,
+  "note": "Investor base is unusually state-heavy for a 3-year-old startup: National 'Big Fund' Phase III, China Development Bank's innovation fund, and SOE strategics (SAIC, Sinopec, China Mobile) alongside CATL/BYD industrial capital. November 2025 corporate restructuring signals IPO prep but no listing venue/date confirmed. Deployment-scale claims are company/press self-reported.",
+  "sources": [
+   [
+    "Sina Finance — Galbot share reform & financing recap · 2026-03-05",
+    "https://finance.sina.com.cn/roll/2026-03-05/doc-inhpwzrx3276868.shtml"
+   ],
+   [
+    "Caixin — Galbot ¥2.5B round · 2026-03-02",
+    "https://m.caixin.com/m/2026-03-02/102418619.html"
+   ],
+   [
+    "Xinhua — Galbot Series B, CATL-led · 2025-06-23",
+    "https://www.news.cn/digital/20250623/00657ee2fbde4b4d8c005ea667b31737/c.html"
+   ],
+   [
+    "Technode — Galbot Series A, SAIC/HKIC · 2024-11-19",
+    "https://cn.technode.com/post/2024-11-19/galbot/"
+   ],
+   [
+    "TMTPost — Galbot deployment footprint",
+    "https://www.tmtpost.com/8020648.html"
+   ],
+   [
+    "World Robot Conference — Galbot exhibitor profile",
+    "https://www.worldrobotconference.com/expo/company/434.html"
+   ],
+   [
+    "oeeee — Galbot ¥700M angel round · 2024-06",
+    "https://m.mp.oeeee.com/a/BAAFRD000020240624967206.html"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-06",
+    "amountM": 98,
+    "label": "Angel",
+    "src": 6
+   },
+   {
+    "date": "2024-11",
+    "amountM": 70,
+    "label": "Series A",
+    "src": 3
+   },
+   {
+    "date": "2025-06",
+    "amountM": 154,
+    "label": "Series B (CATL-led)",
+    "src": 2
+   },
+   {
+    "date": "2026-03",
+    "amountM": 350,
+    "label": "Series C",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-11",
+    "label": "Corporate restructuring signals IPO preparation",
+    "src": 0
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Body",
+   "Practice",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "General Intuition",
+  "country": "USA",
+  "stage": "Series A",
+  "head": "51-200",
+  "headC": "lo",
+  "url": "https://www.generalintuition.com/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Sim"
+  ],
+  "lvl": 0,
+  "target": 2,
+  "loop": "Spun out of gaming-clip platform Medal (2B videos/year, 10M MAU); mines billions of hours of first-person gameplay video plus the player inputs that produced it to train spatial-temporal 'world model' and action-model foundations, betting this substitutes for scarce real-world embodied demonstration data en route to robotics.",
+  "flagship": "General Intuition foundation/action models (gameplay-trained)",
+  "people": "Pim de Witte (CEO, ex-Medal founder), Eloi Alonso, Adam Jelley, Vincent Micheli (co-founders)",
+  "founded": 2025,
+  "hq": "New York, USA",
+  "raised": 454,
+  "raisedD": "$454M",
+  "raisedC": "hi",
+  "val": 2.3,
+  "valD": "$2.3B",
+  "valC": "hi",
+  "oss": false,
+  "note": "OpenAI reportedly offered $500M to acquire parent Medal before this spinout. As of late August 2026 was reportedly in talks to raise again at a $6B pre-money valuation (Valor, Point72, Seven Seven Six) — not included in cumulative raised since unclosed/unconfirmed. No robot or model weights released yet; entirely gaming-video-derived data, not human physical demonstration in the literal sense.",
+  "sources": [
+   [
+    "General Intuition lands $134M seed (TechCrunch, 2025-10-16)",
+    "https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed-to-teach-agents-spatial-reasoning-using-video-game-clips/"
+   ],
+   [
+    "General Intuition's $2.3B bet (TechCrunch, 2026-06-25)",
+    "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/"
+   ],
+   [
+    "General Intuition in talks to raise at $6B valuation (TFN)",
+    "https://techfundingnews.com/general-intuition-in-talks-to-raise-at-6b-valuation-as-physical-ai-race-accelerates/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-10",
+    "amountM": 134,
+    "label": "Seed",
+    "src": 0
+   },
+   {
+    "date": "2026-06",
+    "amountM": 320,
+    "label": "Series A",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-10",
+    "label": "General Intuition launches, spun out of Medal",
+    "src": 0
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Google DeepMind",
+  "country": "UK",
+  "stage": "Corporate",
+  "head": "1000+",
+  "headC": "lo",
+  "url": "https://deepmind.google/models/gemini-robotics/",
+  "seg": "frontier",
+  "dom": [
+   "Manipulation",
+   "Humanoid",
+   "Edge"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "Builds Gemini Robotics, a vision-language-action model on top of Gemini, plus Gemini Robotics On-Device, a local low-latency variant; both let robots follow natural-language instructions and generalize dexterous manipulation across embodiments including ALOHA, Franka arms, and the Apptronik Apollo humanoid.",
+  "flagship": "Gemini Robotics On-Device · Gemini Robotics 1.5",
+  "people": "Carolina Parada (Robotics lead, Google DeepMind)",
+  "founded": 2010,
+  "hq": "London, UK",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": false,
+  "note": "Robotics work sits inside Google DeepMind (Alphabet); partners with humanoid makers like Apptronik for embodiment testing. All shown results are lab/staged demos on partner hardware, not counted commercial deployments.",
+  "sources": [
+   [
+    "Gemini Robotics On-Device · Google DeepMind blog · 2025-06-24",
+    "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/"
+   ],
+   [
+    "Gemini Robotics brings AI into the physical world · Google DeepMind blog · 2025-03-12",
+    "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/"
+   ],
+   [
+    "RT-2: New model translates vision and language into action · Google DeepMind blog · 2023-07-28",
+    "https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2023-07",
+    "label": "RT-2 released",
+    "src": 2
+   },
+   {
+    "date": "2025-03",
+    "label": "Gemini Robotics + Gemini Robotics-ER announced",
+    "src": 1
+   },
+   {
+    "date": "2025-06",
+    "label": "Gemini Robotics On-Device released",
+    "src": 0
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Ineffable Intelligence",
+  "country": "UK",
+  "stage": "Seed",
+  "head": "1–50",
+  "headC": "lo",
+  "url": "https://www.ineffable.ai/",
+  "seg": "infra",
+  "dom": [
+   "Continual Learning"
+  ],
+  "lvl": 0,
+  "target": 2,
+  "loop": "PRACTICE/IMPROVE layer (research stage): reinforcement-learning \"superlearner\" aiming to discover skills without human-labeled data via self-play and world models; no embodied hardware or deployment yet.",
+  "flagship": "Ineffable superlearner (unreleased)",
+  "people": "David Silver (founder, ex-DeepMind RL lead; AlphaGo/AlphaZero)",
+  "founded": 2025,
+  "hq": "London, UK",
+  "raised": 1100,
+  "raisedD": "$1.1B",
+  "raisedC": "hi",
+  "val": 5.1,
+  "valD": "$5.1B",
+  "valC": "hi",
+  "oss": false,
+  "note": "Largest seed round in European history; backers include Sequoia, Lightspeed, Index, Nvidia, Google, and the UK Sovereign AI Fund. Pure RL/world-model research lab, not embodied-specific — included per brief for its continual-learning relevance to future embodied agents, not current robot deployments.",
+  "sources": [
+   [
+    "DeepMind's David Silver raises $1.1B · TechCrunch 2026-04-27",
+    "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
+   ],
+   [
+    "Inside Ineffable Intelligence: the team · Sifted",
+    "https://sifted.eu/articles/ineffable-intelligence-team"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-04",
+    "amountM": 1100,
+    "label": "Seed",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-11",
+    "label": "Company founded by David Silver (stealth)",
+    "src": 1
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Improve"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Innatera",
+  "country": "Netherlands",
+  "stage": "Series A",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.innatera.com/",
+  "seg": "infra",
+  "dom": [
+   "Edge",
+   "Silicon",
+   "Continual Learning"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "SILICON/IMPROVE layer: Pulsar is a spiking neural-network (neuromorphic) processor for always-on sensor inference at microwatt power, positioned for on-device adaptive/continual learning at the edge.",
+  "flagship": "Pulsar",
+  "people": "Sumeet Kumar (CEO), TU Delft spinout team",
+  "founded": 2018,
+  "hq": "Rijswijk, Netherlands",
+  "raised": 21,
+  "raisedD": "$21M (Series A)",
+  "raisedC": "med",
+  "val": 0,
+  "valD": "undisclosed",
+  "valC": "lo",
+  "oss": false,
+  "note": "Picked over BrainChip (funding dated Dec 2025) and SynSense as the neuromorphic entry because this Series A's most recent tranche (June 2026) is the freshest dated round of the three. Design wins cited in smoke detectors and wearables; robotics angle is nascent.",
+  "sources": [
+   [
+    "Innatera raises $21M extended Series A · DCD",
+    "https://www.datacenterdynamics.com/en/news/neuromorphic-processor-startup-innatera-raises-21m/"
+   ],
+   [
+    "Innatera debuts real-world neuromorphic edge AI at CES 2026",
+    "https://www.innatera.com/newsroom/redefining-the-cutting-edge-innatera-debuts-real-world-neuromorphic-edge-ai-at-ces-2026/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-06",
+    "amountM": 21,
+    "label": "Series A (extended: $16M Mar + $5M Jun 2026)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-01",
+    "label": "Real-world neuromorphic edge AI demo at CES",
+    "src": 1
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Silicon",
+   "Improve"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Intrinsic",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.intrinsic.ai/",
+  "seg": "frontier",
+  "dom": [
+   "Industrial",
+   "Manipulation"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "DEPLOY layer: Flowstate is a browser-based environment for assembling and deploying AI-enabled robot \"skills\" onto industrial arms at manufacturer sites; owns the ROS/Gazebo ecosystem via its Open Robotics acquisition.",
+  "flagship": "Flowstate",
+  "people": "Wendy Tan White (CEO)",
+  "founded": 2018,
+  "hq": "Mountain View, USA",
+  "raised": 0,
+  "raisedD": "undisclosed",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": true,
+  "note": "Alphabet \"Other Bets\" graduate from Google X; acquired Open Source Robotics Corp (ROS, Gazebo, Open-RMF) in Dec 2022; folded from standalone Alphabet company into core Google in Feb 2026 for Gemini/Cloud access; runs a Foxconn JV for AI-driven factories.",
+  "sources": [
+   [
+    "Intrinsic joins Google · TechCrunch 2026-02-25",
+    "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google"
+   ],
+   [
+    "Intrinsic acquires Open Robotics · TechCrunch 2022-12-15",
+    "https://techcrunch.com/2022/12/15/alphabets-intrinsic-acquires-darpa-backed-firm-behind-open-source-robotics-software/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2022-12",
+    "label": "Acquired Open Source Robotics Corp (ROS/Gazebo/Open-RMF)",
+    "src": 1
+   },
+   {
+    "date": "2026-02",
+    "label": "Integrated from Alphabet subsidiary into core Google",
+    "src": 0
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Deploy",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Meta",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "1000+",
+  "headC": "lo",
+  "url": "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/",
+  "seg": "frontier",
+  "dom": [
+   "Data",
+   "Manipulation",
+   "Sim"
+  ],
+  "lvl": 1,
+  "target": 2,
+  "loop": "Trains V-JEPA 2, a self-supervised video world model pretrained on over 1M hours of internet video, then post-trained on under 62 hours of unlabeled robot video (V-JEPA 2-AC) to do zero-shot visual-goal planning for pick-and-place on Franka arms in unseen labs. Project Aria smart-glasses hardware plus Ego4D/Ego-Exo4D open datasets capture first-person human activity (hand pose, gaze, audio, 3D scene) at scale; academic groups (e.g. Georgia Tech's EgoMimic) then use this egocentric video to bootstrap robot manipulation policies with far less teleop data.",
+  "flagship": "V-JEPA 2 / V-JEPA 2-AC",
+  "people": "Yann LeCun (Chief AI Scientist, Meta FAIR)",
+  "founded": 2013,
+  "hq": "Menlo Park, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": true,
+  "note": "One entry for Meta's two relevant programs: FAIR (V-JEPA world models, open weights) and Reality Labs (Project Aria glasses, Ego4D / Ego-Exo4D egocentric datasets). Pure research release from Meta FAIR; weights and code are open-sourced, but there is no commercial deployment arm — zero-shot lab tests on Franka arms in two labs are the only real-hardware evidence, not customer sites.",
+  "sources": [
+   [
+    "Introducing the V-JEPA 2 world model and new benchmarks · Meta AI blog · 2025-06-11",
+    "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/"
+   ],
+   [
+    "Meta AI Releases V-JEPA 2 (open-source) · MarkTechPost · 2025-06-12",
+    "https://www.marktechpost.com/2025/06/12/meta-ai-releases-v-jepa-2-open-source-self-supervised-world-models-for-understanding-prediction-and-planning/"
+   ],
+   [
+    "Introducing Ego-Exo4D",
+    "https://ai.meta.com/blog/ego-exo4d-video-learning-perception/"
+   ],
+   [
+    "EgoMimic: Project Aria glasses to help train humanoid robots",
+    "https://ai.meta.com/blog/egomimic-project-aria-georgia-tech-ego4d-robotics-embodied-ai/"
+   ],
+   [
+    "Aria Gen 2 Pilot Dataset",
+    "https://arxiv.org/html/2510.16134v1"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2025-06",
+    "label": "V-JEPA 2 + V-JEPA 2-AC released; zero-shot robot planning shown on Franka arms",
+    "src": 0
+   },
+   {
+    "date": "2023-12",
+    "label": "Ego-Exo4D dataset released (FAIR + 15 university partners)",
+    "src": 2
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "NVIDIA",
+  "country": "USA",
+  "stage": "Public",
+  "head": ">10,000",
+  "headC": "hi",
+  "url": "https://developer.nvidia.com/isaac/gr00t",
+  "seg": "frontier",
+  "dom": [
+   "Humanoid",
+   "Sim",
+   "Edge"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "PRACTICE (Isaac GR00T open humanoid foundation models, trained on real+sim+synthetic data) bridged to DEPLOY via Jetson AGX Thor onboard compute; ships as a reference design, not a finished product.",
+  "flagship": "Isaac GR00T N1 · Jetson AGX Thor",
+  "people": "Jensen Huang (CEO)",
+  "founded": 1993,
+  "hq": "Santa Clara, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": true,
+  "note": "World's largest AI-compute vendor; the Isaac GR00T Reference Humanoid Robot pairs Jetson Thor compute with third-party hardware (Unitree chassis, Sharpa Wave hands) rather than an NVIDIA-built robot, so evidence level reflects a reference design, not fielded deployments.",
+  "sources": [
+   [
+    "Isaac GR00T Reference Humanoid Robot · 2026-05-31",
+    "https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-design"
+   ],
+   [
+    "GR00T N1 paper · 2025-03-18",
+    "https://arxiv.org/abs/2503.14734"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2025-03",
+    "label": "GR00T N1 open humanoid foundation model released",
+    "src": 1
+   },
+   {
+    "date": "2026-05",
+    "label": "Isaac GR00T Reference Humanoid Robot announced (Jetson Thor + Unitree H2 Plus)",
+    "src": 0
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Practice",
+   "Deploy",
+   "Silicon"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Naver Labs",
+  "country": "Korea",
+  "stage": "Corporate",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.naverlabs.com/en",
+  "seg": "infra",
+  "dom": [
+   "Mobile",
+   "Continual Learning",
+   "Data"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "Naver's robotics R&D subsidiary builds foundation models for navigation and manipulation, trained on real spatial data harvested from Naver's own offices, data centers, and city-scale testbeds, and runs its own delivery robot fleet (Rookie) inside Naver's 1784 building as a live testbed.",
+  "flagship": "Rookie delivery robot · foundation models for robot navigation",
+  "people": "Seok Sang-ok (CEO, Naver Labs)",
+  "founded": 2017,
+  "hq": "Seongnam, Korea",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": false,
+  "note": "Wholly-owned R&D subsidiary of Naver Corp (KOSPI: 035420), funded from Naver's balance sheet rather than external rounds. Its own campus (1784 building) is the primary deployment site, so pilot-level evidence is self-hosted rather than at third-party customers.",
+  "sources": [
+   [
+    "From Machines to Spaces: NAVER LABS' Physical AI and Robotics · Naver Corp",
+    "https://navercorp.com/en/story/storyDetail?seq=33561"
+   ],
+   [
+    "Foundation Models for Robot Navigation · Naver Labs Europe",
+    "https://europe.naverlabs.com/research/foundation-models-for-robot-navigation/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2025-07",
+    "label": "CEO Seok Sang-ok presents spatial-intelligence vision at IEEE World Haptics",
+    "src": 0
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Practice",
+   "Deploy",
+   "Body"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Open X-Embodiment",
+  "country": "USA",
+  "stage": "Academic",
+  "head": "",
+  "headC": "lo",
+  "url": "https://robotics-transformer-x.github.io/",
+  "seg": "academic",
+  "dom": [
+   "Data",
+   "Manipulation",
+   "Mobile"
+  ],
+  "lvl": 0,
+  "target": 1,
+  "loop": "Pools real robot teleoperation/demonstration trajectories from 33 academic labs into one standardized RLDS format (1M+ episodes, 22 embodiments, 500+ skills), then trains the cross-embodiment RT-1-X/RT-2-X policies as a public proof that shared human-collected data transfers across very different robot bodies.",
+  "flagship": "Open X-Embodiment · RT-X",
+  "people": "Sergey Levine, Chelsea Finn, Karol Hausman and collaborators across Google DeepMind + 33 academic labs",
+  "founded": 2023,
+  "hq": "Mountain View, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": true,
+  "note": "Not a company — a shared open dataset/model-format standard. Listed as 'Academic' stage per brief instruction even though Google DeepMind leads it, because the value is the pooled academic-lab contribution, not a DeepMind product.",
+  "sources": [
+   [
+    "Open X-Embodiment: Robotic Learning Datasets and RT-X Models (arXiv 2310.08864, 2023-10)",
+    "https://arxiv.org/abs/2310.08864"
+   ],
+   [
+    "Scaling up learning across many different robot types — Google DeepMind",
+    "https://deepmind.google/blog/scaling-up-learning-across-many-different-robot-types/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2023-10",
+    "label": "Open X-Embodiment dataset + RT-1-X/RT-2-X released",
+    "src": 0
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "OpenAI",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "1000+",
+  "headC": "lo",
+  "url": "https://openai.com",
+  "seg": "frontier",
+  "dom": [
+   "Manipulation",
+   "Humanoid",
+   "Data"
+  ],
+  "lvl": 0,
+  "target": 4,
+  "loop": "Rebuilt an internal robotics division (grown out of its world-simulation research group) that is collecting teleoperated manipulation data on Franka arms via 3D-printed GELLO controllers, aiming first at humanoid-assisted construction/infrastructure work and long-term at a general-purpose personal robot.",
+  "flagship": "OpenAI Robotics (unnamed VLA/world-model, pre-release)",
+  "people": "Aditya Ramesh (world-simulation research lead the team grew from); Sam Altman (CEO) publicly sponsoring the push",
+  "founded": 2015,
+  "hq": "San Francisco, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": false,
+  "note": "Original robotics team was shut down in 2021; rebuild began internally around Jan 2025 out of the world-simulation group, with about 100 data collectors teleoperating Franka arms. No shipped model or public benchmark yet — this is pre-product data collection, not a demo.",
+  "sources": [
+   [
+    "OpenAI Restarts Robotics Business After Six-Year Hiatus · 36Kr",
+    "https://eu.36kr.com/en/p/3834849321546882"
+   ],
+   [
+    "Sam Altman's OpenAI just made robotics its next frontier · Tech Funding News",
+    "https://techfundingnews.com/sam-altmans-openai-just-made-robotics-its-next-frontier-and-its-hiring-to-prove-it/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2025-01",
+    "label": "Robotics team rebuild begins internally under the world-simulation group",
+    "src": 0
+   },
+   {
+    "date": "2025-05",
+    "label": "Altman publicly announces robotics hiring push on X",
+    "src": 1
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Qualcomm",
+  "country": "USA",
+  "stage": "Public",
+  "head": ">10,000",
+  "headC": "hi",
+  "url": "https://www.qualcomm.com/internet-of-things/applications/robotics-processors",
+  "seg": "frontier",
+  "dom": [
+   "Edge",
+   "Silicon",
+   "Mobile"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "DEPLOY layer: Dragonwing IQ10 is a full-stack edge compute + sensing reference platform (700 TOPS, 12-camera GMSL2, ROS2) meant to bridge trained robot policies onto onboard silicon for AMRs, industrial robots and humanoids.",
+  "flagship": "Dragonwing IQ10",
+  "people": "Cristiano Amon (CEO)",
+  "founded": 1985,
+  "hq": "San Diego, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": false,
+  "note": "Explicitly positioned as a Jetson competitor; design partners include Figure, Kuka, Booster, VinMotion. Early access from June 2026, general commercial availability targeted September 2026 — not yet fielded at scale.",
+  "sources": [
+   [
+    "CES 2026: Qualcomm targets Nvidia Jetson with new robotics platform · automate.org",
+    "https://www.automate.org/robotics/news/ces-2026-qualcomm-targets-nvidia-jetson-with-new-robotics-developer-platform"
+   ],
+   [
+    "Dragonwing IQ10 RRD released · SemiAccurate 2026-06-01",
+    "https://www.semiaccurate.com/2026/06/01/qualcomm-releases-the-dragonwing-iq10-rrd-robotics-platform/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2026-01",
+    "label": "Dragonwing IQ10 robotics platform unveiled at CES",
+    "src": 0
+   },
+   {
+    "date": "2026-06",
+    "label": "Dragonwing IQ10 reference design reaches early access",
+    "src": 1
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Deploy",
+   "Silicon"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Rainbow Robotics",
+  "country": "Korea",
+  "stage": "Public",
+  "head": "201–500",
+  "headC": "lo",
+  "url": "https://www.rainbow-robotics.com/en/",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Industrial",
+   "Logistics"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Builds bipedal humanoid robots (Hubo, DRC-Hubo) and collaborative arms; Samsung-backed since 2023 and now a Samsung subsidiary via a 35% controlling stake, piloting a dual-arm robot inside a Coupang warehouse.",
+  "flagship": "Hubo humanoid · dual-arm cobot (Coupang pilot)",
+  "people": "Jun-ho Oh (co-founder; now heads Samsung's Future Robotics Office)",
+  "founded": 2011,
+  "hq": "Daejeon, Korea",
+  "raised": 181,
+  "raisedD": "$181M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Samsung became controlling shareholder (35%) in a deal closing Feb 2025, on top of a 2023 initial 14.7% stake (KRW 86.8B); note one source headline said '$181 billion' — that is a typo for $181M, confirmed against TechCrunch's own headline. Listed on KOSDAQ (277810); market cap not independently verified here.",
+  "sources": [
+   [
+    "Samsung Electronics To Become Largest Shareholder in Rainbow Robotics · Samsung Newsroom",
+    "https://news.samsung.com/global/samsung-electronics-to-become-largest-shareholder-in-rainbow-robotics-accelerating-future-robot-development"
+   ],
+   [
+    "Samsung pays $181M to become largest shareholder of Rainbow Robotics · TechCrunch · 2024-12-30",
+    "https://techcrunch.com/2024/12/30/samsung-pays-181m-to-become-largest-shareholder-of-rainbow-robotics"
+   ],
+   [
+    "Samsung-Backed Rainbow Robotics Puts Its Dual-Arm Robot to Work in a Coupang Warehouse · Tech Times",
+    "https://www.techtimes.com/articles/318386/20260615/samsung-backed-rainbow-robotics-puts-its-dual-arm-robot-work-coupang-warehouse.htm"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-12",
+    "amountM": 181,
+    "label": "Samsung strategic stake increase to 35% (cumulative)",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-02",
+    "label": "Samsung deal closes; Samsung becomes largest shareholder",
+    "src": 0
+   },
+   {
+    "date": "2026-06",
+    "label": "Dual-arm robot piloted in a Coupang warehouse",
+    "src": 2
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Rebellions",
+  "country": "Korea",
+  "stage": "Series C+",
+  "head": "201–500",
+  "headC": "lo",
+  "url": "https://rebellions.ai/",
+  "seg": "infra",
+  "dom": [
+   "Silicon",
+   "Data"
+  ],
+  "lvl": 0,
+  "target": 2,
+  "loop": "SILICON layer: designs NPU/ASIC inference accelerators (Rebel) and rack-scale AI infrastructure (RebelRack, RebelPod) pitched as a sovereign alternative to Nvidia; primarily datacenter-inference, not a robot/edge-specific product today.",
+  "flagship": "Rebel · RebelRack/RebelPod",
+  "people": "Sunghyun Park (CEO, ex-Samsung)",
+  "founded": 2020,
+  "hq": "Seoul, Korea",
+  "raised": 850,
+  "raisedD": "$850M",
+  "raisedC": "hi",
+  "val": 2.34,
+  "valD": "$2.34B",
+  "valC": "hi",
+  "oss": false,
+  "note": "Included per Korea's government-backed \"K-Nvidia\" silicon strategy (co-lead investor: Korea National Growth Fund); no disclosed robot/edge-specific product line, so embodied deployment level is scored 0 despite a commercially mature datacenter business.",
+  "sources": [
+   [
+    "Rebellions raises $400M pre-IPO at $2.3B · TechCrunch 2026-03-30",
+    "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/"
+   ],
+   [
+    "Korean NPU makers seek track records ahead of IPOs · Korea Times 2026-08-05",
+    "https://www.koreatimes.co.kr/business/tech-science/20260805/korean-npu-makers-seek-track-records-ahead-of-potential-ipos"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-11",
+    "amountM": 250,
+    "label": "Series C",
+    "src": 0
+   },
+   {
+    "date": "2026-03",
+    "amountM": 400,
+    "label": "Pre-IPO",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-03",
+    "label": "Launched RebelRack and RebelPod AI infrastructure platforms",
+    "src": 0
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Silicon"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Rerun",
+  "country": "Sweden",
+  "stage": "Seed",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://rerun.io/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Sim",
+   "Edge"
+  ],
+  "lvl": 1,
+  "target": 2,
+  "loop": "OBSERVE/PRACTICE layer: open-source visualization SDK plus a new cloud database purpose-built for multimodal robot data (video, 3D scenes, tensors) feeding training and debugging pipelines.",
+  "flagship": "Rerun Viewer + Physical AI data platform",
+  "people": "Emil Ernerfeldt, Nikolaus West (co-founders, ex-autonomous-driving engineers)",
+  "founded": 2023,
+  "hq": "Stockholm, Sweden",
+  "raised": 23.2,
+  "raisedD": "$23.2M",
+  "raisedC": "med",
+  "val": 0,
+  "valD": "undisclosed",
+  "valC": "lo",
+  "oss": true,
+  "note": "Backers include Point Nine, Costanoa, Seedcamp, and angels Guillermo Rauch (Vercel) and Nicolas Dessaigne (YC). Smallest and earliest-stage of the deploy-tooling cluster in this batch.",
+  "sources": [
+   [
+    "Rerun raises $17M seed · SiliconANGLE 2025-03-20",
+    "https://siliconangle.com/2025/03/20/rerun-gets-17m-build-essential-data-infrastructure-ai-powered-robots-drones-cars/"
+   ],
+   [
+    "Rerun total funding $23.2M · Crunchbase",
+    "https://www.crunchbase.com/organization/rerun-c67d/financial_details"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-03",
+    "amountM": 17,
+    "label": "Seed",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Robai",
+  "country": "Korea",
+  "stage": "Seed",
+  "head": "1–10",
+  "headC": "lo",
+  "url": "https://en.wowtale.net/2026/07/28/234564/",
+  "seg": "infra",
+  "dom": [
+   "Continual Learning",
+   "Edge",
+   "Manipulation"
+  ],
+  "lvl": 0,
+  "target": 2,
+  "loop": "Building 'Robot Academy,' a general-purpose robot control platform based on self-exploration AI (a Robot Action Recognition model, Motor Babbling model, and Body Schema model) that lets a robot learn its own joint structure and movement limits without a hand-coded model.",
+  "flagship": "Robot Academy (AI Self-Exploration platform)",
+  "people": "",
+  "founded": 2024,
+  "hq": "Seoul, Korea",
+  "raised": 0,
+  "raisedD": "undisclosed",
+  "raisedC": "lo",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Very early stage: seed funding amount from Korea Investment Accelerator was not disclosed in press coverage; founding year and founder names are unconfirmed estimates — flagged as uncertain.",
+  "sources": [
+   [
+    "AI Robot Control Startup Robai Secures Seed Funding from Korea Investment Accelerator · WOWTALE · 2026-07-28",
+    "https://en.wowtale.net/2026/07/28/234564/"
+   ],
+   [
+    "Robot \"Nerves\" for Motion…AI-Controlled Robai Pulls in Seed Investment · KS Post",
+    "https://www.kspost.biz/en-us/articles/2771"
+   ]
+  ],
+  "rounds": [],
+  "events": [],
+  "radar": true,
+  "tier": "gen",
+  "tags": [
+   "Practice",
+   "Improve"
+  ],
+  "rank": null
+ },
+ {
+  "name": "Sanctuary AI",
+  "country": "Canada",
+  "stage": "Series C+",
+  "head": "51-200",
+  "headC": "med",
+  "url": "https://sanctuary.ai/",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Teleop",
+   "Manipulation"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Phoenix humanoid + Carbon control system: human 'trainers' teleoperate Phoenix through tasks (tactile-sensor-rich hands) so Carbon can observe and later imitate; teleoperation is the deliberate data-capture mechanism for the deployable skill library.",
+  "flagship": "Phoenix · Carbon",
+  "people": "Geordie Rose (co-founder, ex-D-Wave CEO), Suzanne Gildert (co-founder)",
+  "founded": 2018,
+  "hq": "Vancouver, Canada",
+  "raised": 147,
+  "raisedD": "$147M",
+  "raisedC": "med",
+  "val": 0.5,
+  "valD": "$500M+",
+  "valC": "lo",
+  "oss": false,
+  "note": "Funding is a patchwork of small disclosed tranches (Canadian government/strategic co-investors like BDC Capital, InBC) rather than clean priced rounds; several 2024-2025 tranches undisclosed in amount. Was reportedly seeking ~$175M in 2025 by selling its Apptronik stake. Valuation figure is a secondary-aggregator estimate, not a primary source.",
+  "sources": [
+   [
+    "Sanctuary Cognitive Systems Closes C$75.5M (US$58.5M) Series A",
+    "https://www.sanctuary.ai/blog/sanctuary-ai-closes-75-million-series-a-funding"
+   ],
+   [
+    "Sanctuary AI: Funding, Valuation, Robot Specs",
+    "https://humanoidindex.org/companies/sanctuary-ai"
+   ],
+   [
+    "Sanctuary AI is selling its stake in Apptronik as it tries to raise US$175M",
+    "https://thelogic.co/news/exclusive/sanctuary-ai-apptronik-sale/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2022-03",
+    "amountM": 58.5,
+    "label": "Series A",
+    "src": 0
+   },
+   {
+    "date": "2024-07",
+    "amountM": 32,
+    "label": "Series A extension",
+    "src": 1
+   },
+   {
+    "date": "2024-07",
+    "amountM": 11,
+    "label": "Series A extension",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-04",
+    "label": "Seeking ~$175M by selling Apptronik stake to co-lead new round",
+    "src": 2
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Scale AI",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "5,001-10,000",
+  "headC": "med",
+  "url": "https://scale.com/physical-ai",
+  "seg": "frontier",
+  "dom": [
+   "Data",
+   "Manipulation",
+   "Industrial"
+  ],
+  "lvl": 1,
+  "target": 2,
+  "loop": "Data Engine for Physical AI: robot teleoperation + human-demonstration data collection and annotation, sold to model builders (Physical Intelligence, Generalist AI, Cobot) and embedded in Universal Robots' AI Trainer for factory pilots.",
+  "flagship": "Data Engine for Physical AI",
+  "people": "Alexandr Wang (founder, departed to lead Meta Superintelligence Labs, 2025), Jason Droege (interim CEO)",
+  "founded": 2016,
+  "hq": "San Francisco, USA",
+  "raised": 15900,
+  "raisedD": "$15.9B",
+  "raisedC": "med",
+  "val": 29,
+  "valD": "$29B",
+  "valC": "med",
+  "oss": false,
+  "note": "Data-labeling giant; Physical AI is one business line, not the whole company. Meta's June 2025 $14.3B/49%-stake deal is widely reported as an investment but is partly a secondary purchase, so treat cumulative-raised as approximate. Headcount fell ~14-15% after July 2025 layoffs; figures vary 5,775-6,956 across trackers.",
+  "sources": [
+   [
+    "Expanding Our Data Engine for Physical AI (2025-09-24)",
+    "https://scale.com/blog/physical-ai"
+   ],
+   [
+    "Universal Robots and Scale AI launch imitation learning system",
+    "https://www.universal-robots.com/news-and-media/news-center/universal-robots-scale-ai-launch-imitation-learning-system-accelerate-ai-training-lab-to-factory/"
+   ],
+   [
+    "Scale AI Stock: $29B Valuation (Meta deal, 2025-06)",
+    "https://tsginvest.com/scale-ai/"
+   ],
+   [
+    "Scale AI headcount trend, Revelio Labs",
+    "https://www.reveliolabs.com/companies/scale-ai/employees"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-05",
+    "amountM": 1000,
+    "label": "Series F",
+    "src": 2
+   },
+   {
+    "date": "2025-06",
+    "amountM": 14300,
+    "label": "Meta strategic investment (49% non-voting stake)",
+    "src": 2
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-09",
+    "label": "Data Engine for Physical AI progress update; named customers Physical Intelligence, Generalist AI, Cobot",
+    "src": 0
+   },
+   {
+    "date": "2025-10",
+    "label": "Universal Robots AI Trainer embeds Scale's Physical AI Data Engine for factory pilots",
+    "src": 1
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "SiMa.ai",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://sima.ai/",
+  "seg": "infra",
+  "dom": [
+   "Edge",
+   "Silicon",
+   "Continual Learning"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "SILICON/DEPLOY layer: MLSoC/Modalix edge AI chips plus software stack explicitly branded for \"Physical AI,\" targeting robots, cameras, and drones at the edge.",
+  "flagship": "MLSoC / Modalix",
+  "people": "Krishna Rangasayee (CEO, ex-Xilinx)",
+  "founded": 2018,
+  "hq": "San Jose, USA",
+  "raised": 355,
+  "raisedD": "$355M",
+  "raisedC": "hi",
+  "val": 0.96,
+  "valD": "$960M",
+  "valC": "med",
+  "oss": false,
+  "note": "Backed by Maverick Capital, Dell Technologies Capital, and a strategic investment from Micron (April 2026, amount undisclosed); Lip-Bu Tan (Intel CEO) is a personal investor.",
+  "sources": [
+   [
+    "SiMa.ai Raises $85M, total $355M · PR Newswire",
+    "https://www.prnewswire.com/news-releases/simaai-raises-85m-to-scale-physical-ai-bringing-total-funding-to-355m-302519152.html"
+   ],
+   [
+    "SiMa.ai raises $70M, Micron invests · DCD 2026",
+    "https://www.datacenterdynamics.com/en/news/edge-compute-chip-firm-simaai-raises-70m-in-funding-round/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-01",
+    "amountM": 70,
+    "label": "Extension round",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-04",
+    "label": "Strategic investment from Micron Technology",
+    "src": 1
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Silicon",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Stanford REAL Lab (UMI)",
+  "country": "USA",
+  "stage": "Academic",
+  "head": "",
+  "headC": "lo",
+  "url": "https://umi-gripper.github.io/",
+  "seg": "academic",
+  "dom": [
+   "Data",
+   "Manipulation",
+   "Field"
+  ],
+  "lvl": 1,
+  "target": 1,
+  "loop": "Universal Manipulation Interface: a $400 hand-held gripper with a wrist camera lets anyone record in-the-wild bimanual manipulation demonstrations without a robot present; a matched policy-learning recipe (relative-trajectory actions, latency matching) makes the resulting human data directly deployable, hardware-agnostic, on real robot arms.",
+  "flagship": "Universal Manipulation Interface (UMI)",
+  "people": "Shuran Song (PI, Stanford REAL Lab; formerly Columbia), Cheng Chi and lab collaborators",
+  "founded": 2024,
+  "hq": "Stanford, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": true,
+  "note": "Research project, not a company; included because the brief names it explicitly as an Academic-stage OBSERVE candidate. Open-sourced hardware design and policy code on GitHub (real-stanford/universal_manipulation_interface).",
+  "sources": [
+   [
+    "Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots (arXiv 2402.10329, RSS 2024)",
+    "https://arxiv.org/abs/2402.10329"
+   ],
+   [
+    "real-stanford/universal_manipulation_interface GitHub",
+    "https://github.com/real-stanford/universal_manipulation_interface"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2024-02",
+    "label": "UMI paper + open-source gripper/policy code released; presented at RSS 2024",
+    "src": 0
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Sunday Robotics",
+  "country": "USA",
+  "stage": "Series B",
+  "head": "",
+  "headC": "lo",
+  "url": "https://www.sunday.ai",
+  "seg": "body",
+  "dom": [
+   "Home",
+   "Manipulation"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "Owns the full stack (hardware, software, data, training, evaluation): Memo, a non-bipedal wheeled home robot with a telescoping column, is trained on ~10M episodes of human-motion data captured via a proprietary Skill Capture Glove worn in 500+ real homes, feeding the ACT-1/ACT-2 foundation models.",
+  "flagship": "Memo · ACT-2",
+  "people": "Tony Zhao (co-founder, UC Berkeley EECS, creator of ALOHA); Cheng Chi (co-founder, Columbia PhD, inventor of Diffusion Policy)",
+  "founded": 2024,
+  "hq": "San Francisco, USA",
+  "raised": 200,
+  "raisedD": "$200M",
+  "raisedC": "hi",
+  "val": 1.15,
+  "valD": "$1.15B",
+  "valC": "hi",
+  "oss": false,
+  "note": "Deliberately non-humanoid/non-bipedal by design for home safety and stability. Series B led by Coatue with Bain Capital Ventures, Fidelity, and Tiger Global, earmarked to fund an in-home 'Founding Family Beta' of 50 households later in 2026; no broader deployment yet.",
+  "sources": [
+   [
+    "The AI Insider — Sunday emerges from stealth with $35M · 2025-11-20",
+    "https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/"
+   ],
+   [
+    "eWeek — Sunday Memo home robot · 2025-11-24",
+    "https://www.eweek.com/news/sunday-memo-home-robot/"
+   ],
+   [
+    "Bain Capital Ventures — Robots finally at home · 2026-03-12",
+    "https://baincapitalventures.com/insight/robots-finally-at-home/"
+   ],
+   [
+    "sunday.ai — technology",
+    "https://www.sunday.ai/technology"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-11",
+    "amountM": 35,
+    "label": "Seed",
+    "src": 0
+   },
+   {
+    "date": "2026-03",
+    "amountM": 165,
+    "label": "Series B",
+    "src": 2
+   }
+  ],
+  "events": [],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Observe",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Tesla",
+  "country": "USA",
+  "stage": "Public",
+  "head": "",
+  "headC": "lo",
+  "url": "https://www.tesla.com/AI",
+  "seg": "frontier",
+  "dom": [
+   "Humanoid",
+   "Manipulation",
+   "Silicon"
+  ],
+  "lvl": 1,
+  "target": 4,
+  "loop": "The practice and improve loop currently runs entirely inside Tesla's own Fremont factory ('Optimus Academy'), using real-world manipulation data collected on the factory floor to train dexterity before any external deploy phase; no independent customer-site loop has been demonstrated.",
+  "flagship": "Optimus Gen 3",
+  "people": "Elon Musk (CEO, Tesla, Inc.); no separate named Optimus-division CEO identified",
+  "founded": 2003,
+  "hq": "Austin, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "lo",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Production and capability claims are overwhelmingly Musk/Tesla self-reported. Q2 2026 earnings call disclosed zero unit count and no external customers; ~1,000+ Gen 3 units 'operating' at Fremont for internal training as of Jan 2026 is a press claim, not a Tesla-confirmed figure. Optimus unveiled Aug 2021; Gen 3 mass-production activities began Jan 2026 at Fremont.",
+  "sources": [
+   [
+    "Teslarati — Optimus production line progress · 2026-07-01",
+    "https://www.teslarati.com/tesla-optimus-project-fires-up-musk-sees-production-line-progress/"
+   ],
+   [
+    "optimusk.blog — Tesla Q2 2026 earnings Optimus update · 2026-08-07",
+    "https://optimusk.blog/blog/tesla-q2-2026-earnings-optimus-update/"
+   ],
+   [
+    "The Robot Report — Tesla targets 10M Optimus units with new Texas plant",
+    "https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2026-01",
+    "label": "Gen 3 mass-production activities begin at Fremont; ~1,000+ units reported operating for internal training (unverified claim, not Tesla-confirmed)",
+    "src": 0
+   },
+   {
+    "date": "2026-07",
+    "label": "Musk confirms Optimus line operational at Fremont, targeting 1M units/year run-rate",
+    "src": 0
+   },
+   {
+    "date": "2026-08",
+    "label": "Q2 2026 earnings call: zero Optimus unit count disclosed, no external customers named",
+    "src": 1
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Practice",
+   "Silicon"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "The Bot Company",
+  "country": "USA",
+  "stage": "Series B",
+  "head": "201–500",
+  "headC": "lo",
+  "url": "https://bot.co",
+  "seg": "body",
+  "dom": [
+   "Home",
+   "Manipulation",
+   "Mobile"
+  ],
+  "lvl": 0,
+  "target": 4,
+  "loop": "Currently in observe/practice R&D, building both the physical hardware (a wheeled/treaded mobile base with articulated arm(s), roughly 6ft footprint per Reuters-sourced spec) and the software stack in-house; no product name or deployed unit publicly revealed as of research.",
+  "flagship": "undisclosed (unnamed home robot)",
+  "people": "Kyle Vogt (founder/CEO, ex-Cruise CEO, Twitch co-founder); Paril Jain (co-founder/CTO, ex-Tesla Autopilot); Luke Holoubek (co-founder, ex-Cruise)",
+  "founded": 2024,
+  "hq": "San Francisco, USA",
+  "raised": 300,
+  "raisedD": "$300M",
+  "raisedC": "med",
+  "val": 2.0,
+  "valD": "$2B (2025-03)",
+  "valC": "hi",
+  "oss": false,
+  "note": "Backed by an A-list roster: Nat Friedman, Daniel Gross, Patrick and John Collison, Nabeel Hyatt/Spark, Elad Gil, Greenoaks. Zero units shipped and no public prototype as of research; headcount conflicts sharply between LinkedIn (2-10) and third-party estimates (201-500), so treat as low confidence.",
+  "sources": [
+   [
+    "Bloomberg — Kyle Vogt starts VC-funded robotics startup · 2024-05-13",
+    "https://www.bloomberg.com/news/articles/2024-05-13/cruise-founder-kyle-vogt-starts-vc-funded-robotics-startup"
+   ],
+   [
+    "Forbes — Kyle Vogt / The Bot Company funding · 2024-05-13",
+    "https://www.forbes.com/sites/kenrickcai/2024/05/13/kyle-vogt-the-bot-company-startup-funding/"
+   ],
+   [
+    "TechCrunch — The Bot Company raises another $150M · 2025-03-23",
+    "https://techcrunch.com/2025/03/23/former-cruise-ceo-kyle-vogts-new-robotics-startup-reportedly-raises-another-150m/"
+   ],
+   [
+    "The Robot Report — The Bot Company $150M · 2025-03-24",
+    "https://www.therobotreport.com/the-bot-company-led-by-kyle-vogt-brings-in-another-150m/"
+   ],
+   [
+    "Sacra — The Bot Company profile",
+    "https://sacra.com/c/the-bot-company/"
+   ],
+   [
+    "Bloomberg — The Bot Company eyes $4B valuation · 2025-10-28",
+    "https://www.bloomberg.com/news/articles/2025-10-28/cruise-founder-kyle-vogt-s-robotics-startup-eyes-4-billion-valuation"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-05",
+    "amountM": 150,
+    "label": "Seed",
+    "src": 0
+   },
+   {
+    "date": "2025-03",
+    "amountM": 150,
+    "label": "Series B",
+    "src": 3
+   }
+  ],
+  "events": [],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Toyota Research Institute",
+  "country": "USA",
+  "stage": "Corporate",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.tri.global/news/tri-pretrained-large-behavior-models-accelerate-robot-learning",
+  "seg": "frontier",
+  "dom": [
+   "Manipulation",
+   "Humanoid",
+   "Sim"
+  ],
+  "lvl": 1,
+  "target": 3,
+  "loop": "Develops Large Behavior Models (LBMs): models pretrained across hundreds of manipulation tasks that transfer to new tasks with up to 80% less demonstration data, applied jointly with Boston Dynamics to give the Atlas humanoid unified whole-body control.",
+  "flagship": "Large Behavior Model (LBM) on Atlas",
+  "people": "Russ Tedrake (VP, Robotics Research, TRI); joint program with Boston Dynamics",
+  "founded": 2015,
+  "hq": "Los Altos, USA",
+  "raised": 0,
+  "raisedD": "–",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "hi",
+  "oss": false,
+  "note": "Wholly-owned Toyota subsidiary; LBM work is a joint program with Boston Dynamics (Hyundai-owned) announced Oct 2024. Demonstrations are lab-based on Atlas, not yet fielded at customer sites.",
+  "sources": [
+   [
+    "TRI: pretrained large behavior models accelerate robot learning · TRI news",
+    "https://www.tri.global/news/tri-pretrained-large-behavior-models-accelerate-robot-learning"
+   ],
+   [
+    "Boston Dynamics, TRI demonstrate LBM powering Atlas · Robotics 24/7 · 2025-08",
+    "https://www.robotics247.com/article/boston_dynamics_toyota_research_institute_demonstrate_large_behavior_model_powering_atlas_humanoid_robot/"
+   ]
+  ],
+  "rounds": [],
+  "events": [
+   {
+    "date": "2024-10",
+    "label": "Boston Dynamics–TRI joint research partnership announced",
+    "src": 0
+   },
+   {
+    "date": "2025-08",
+    "label": "LBM demonstrated powering Atlas humanoid (whole-body control)",
+    "src": 1
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "UBTech",
+  "country": "China",
+  "stage": "Public",
+  "head": "1,001–5,000",
+  "headC": "med",
+  "url": "https://www.ubtrobot.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Industrial",
+   "Logistics"
+  ],
+  "lvl": 3,
+  "target": 4,
+  "loop": "Builds and deploys Walker S/S2 industrial humanoids for material handling and sorting; deploy is the proven stage with 1,079 units sold in 2025 and a 2026 pilot with EU retailer ROSSMANN via distributor Terra Robotics.",
+  "flagship": "Walker S2",
+  "people": "Zhou Jian (founder/chairman/CEO, largest shareholder)",
+  "founded": 2012,
+  "hq": "Shenzhen, China",
+  "raised": 1340,
+  "raisedD": "$1.34B (pre-IPO)",
+  "raisedC": "med",
+  "val": 5.1,
+  "valD": "$5.1B (mkt cap)",
+  "valC": "med",
+  "oss": true,
+  "note": "First humanoid-robot company listed on the HKEX main board (Dec 2023), backed pre-IPO by Tencent (lead), CDH, Qiming, Haier. Headcount and a reported Aug-2025 $1B post-IPO placement rest on a single aggregator (Tracxn) not corroborated elsewhere — flagged as unverified.",
+  "sources": [
+   [
+    "PR Newswire — UBTech HKEX listing · 2023-12-30",
+    "https://www.prnewswire.com/apac/news-releases/as-walker-s-strikes-the-gong-ubtech-robotics-becomes-the-first-humanoid-robot-company-listed-on-the-main-board-of-the-hkex-302027943.html"
+   ],
+   [
+    "Wikipedia — UBtech Robotics",
+    "https://en.wikipedia.org/wiki/UBtech_Robotics"
+   ],
+   [
+    "Tracxn — UBTech funding & investors",
+    "https://tracxn.com/d/companies/ubtech/__9h0lLgRsM-KpCB45HFFwp8SdFb9z3Q3nUMqVV1ZGIvE"
+   ],
+   [
+    "stockanalysis.com — UBTech (9880.HK) market cap · 2026-09-03",
+    "https://stockanalysis.com/quote/hkg/9880/market-cap/"
+   ],
+   [
+    "UBTech news — ROSSMANN pilot deployment · 2026-07-13",
+    "https://ubtrobot.com/en/about/news/826574022332485"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2017-11",
+    "amountM": 400,
+    "label": "Series C (tranche 1)",
+    "src": 2
+   },
+   {
+    "date": "2018-05",
+    "amountM": 820,
+    "label": "Series C (tranche 2, $5B post-money)",
+    "src": 2
+   },
+   {
+    "date": "2023-12",
+    "amountM": 0,
+    "label": "IPO (HKEX main board, amount undisclosed; HK$37.6B listing market cap)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2023-12",
+    "label": "IPO on HKEX main board — first humanoid-robot company listed there",
+    "src": 0
+   },
+   {
+    "date": "2026-07",
+    "label": "Walker S2 pilot deployment at ROSSMANN EU logistics centers via Terra Robotics",
+    "src": 4
+   }
+  ],
+  "tier": "site",
+  "tags": [
+   "Body",
+   "Deploy"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Unitree",
+  "country": "China",
+  "stage": "Public",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.unitree.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Mobile",
+   "Field"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "Primarily an embodiment and tooling supplier: builds hardware (G1, H1, R1) plus base teleop/RL locomotion stacks (unitree_sdk2, unitree_rl_gym, unitree_IL_lerobot) that others build deployment loops on top of; own use includes G1 helping assemble robot parts in its own factory.",
+  "flagship": "G1",
+  "people": "Wang Xingxing (founder/chairman/CEO/CTO, started with quadruped robots as a student project)",
+  "founded": 2016,
+  "hq": "Hangzhou, China",
+  "raised": 1138,
+  "raisedD": "~$1.1B",
+  "raisedC": "lo",
+  "val": 53,
+  "valD": "$53B (mkt cap)",
+  "valC": "med",
+  "oss": true,
+  "note": "IPO'd on Shanghai STAR Market (688836) on 2026-08-19 with reported ~8,000x demand. Post-IPO shareholder register reportedly includes state-linked entities (National Social Security Fund, CNPC Kunlun, China Southern Power Grid). In June 2026 the US DoD added Unitree to a list of Chinese military-linked companies; Unitree denies PLA sales — contested.",
+  "sources": [
+   [
+    "CNN — Unitree IPO · 2026-08-18",
+    "https://edition.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk"
+   ],
+   [
+    "Sina Finance — Unitree IPO details · 2026-08-18",
+    "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpx9860006.shtml"
+   ],
+   [
+    "Forbes — Unitree 8000x IPO demand · 2026-08-18",
+    "https://www.forbes.com/sites/jonmarkman/2026/08/18/unitree-starts-trading-tomorrow-in-shanghai-after-8000x-ipo-demand/"
+   ],
+   [
+    "Wikipedia — Unitree Robotics",
+    "https://en.wikipedia.org/wiki/Unitree_Robotics"
+   ],
+   [
+    "21jingji — Unitree 5,500+ units shipped 2025, global #1",
+    "https://www.21jingji.com/article/20250728/herald/e5cfa7ce9d2d5391aedb84b64b0fe084.html"
+   ],
+   [
+    "GitHub — unitreerobotics org",
+    "https://github.com/orgs/unitreerobotics/repositories"
+   ],
+   [
+    "pedaily — Unitree 2025 revenue ¥1.699B",
+    "https://news.pedaily.cn/202608/567495.shtml"
+   ],
+   [
+    "36kr — Unitree C+ round · 2025-06",
+    "https://www.36kr.com/p/3344368397190018"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-02",
+    "amountM": 140,
+    "label": "Series B2",
+    "src": 7
+   },
+   {
+    "date": "2024-09",
+    "amountM": 0,
+    "label": "Series C (partial, undisclosed amount; valuation ¥8B/~$1.1B)",
+    "src": 7
+   },
+   {
+    "date": "2025-06",
+    "amountM": 98,
+    "label": "Series C+",
+    "src": 7
+   },
+   {
+    "date": "2026-08",
+    "amountM": 900,
+    "label": "IPO (Shanghai STAR Market)",
+    "src": 1
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-07",
+    "label": "R1 low-cost consumer humanoid launched ($4,900-$5,900)",
+    "src": 3
+   },
+   {
+    "date": "2026-08",
+    "label": "IPO on Shanghai STAR Market (688836); shares surge +487% on first day",
+    "src": 0
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body",
+   "Practice"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "Viam",
+  "country": "USA",
+  "stage": "Series C+",
+  "head": "201–500",
+  "headC": "med",
+  "url": "https://www.viam.com/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Edge",
+   "Mobile"
+  ],
+  "lvl": 2,
+  "target": 3,
+  "loop": "DEPLOY/IMPROVE layer: a general \"operating system\" to register, control, and log data from heterogeneous robot and IoT fleets in the field, feeding usage data back for fine-tuning.",
+  "flagship": "Viam robotics platform",
+  "people": "Eliot Horowitz (CEO, MongoDB co-founder)",
+  "founded": 2020,
+  "hq": "New York, USA",
+  "raised": 117,
+  "raisedD": "$117M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "undisclosed",
+  "valC": "lo",
+  "oss": true,
+  "note": "Not robot-specific by design — markets itself as infrastructure for any physical device, spanning drones, arms, and sensors. Cumulative $117M spans Seed/A/B/C; only the Series C is precisely dated in sources reviewed.",
+  "sources": [
+   [
+    "Viam announces $30M Series C · 2025-03",
+    "https://www.viam.com/press-releases/viam-announces-30-million-series-c"
+   ],
+   [
+    "Viam announces $45M Series B",
+    "https://www.viam.com/press-releases/viam-announces-45m-series-b-funding-for-revolutionary-software-platform-accelerating-ai-data-and-innovation-in-robotics-iot-and-smart-machines"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2025-03",
+    "amountM": 30,
+    "label": "Series C",
+    "src": 0
+   }
+  ],
+  "events": [],
+  "tier": "layer",
+  "tags": [
+   "Deploy",
+   "Improve"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "WIRobotics",
+  "country": "Korea",
+  "stage": "Series B",
+  "head": "51–200",
+  "headC": "lo",
+  "url": "https://www.wirobotics.com",
+  "seg": "body",
+  "dom": [
+   "Humanoid",
+   "Manipulation",
+   "Edge"
+  ],
+  "lvl": 2,
+  "target": 4,
+  "loop": "Started with wearable robotics (WIBS industrial back-support exosuit, WIM gait-assist wearable, multi-year CES Innovation Award winner) sold through gait-training centers, and in 2025 unveiled ALLEX, a general-purpose humanoid, extending from wearable actuation into full-body manipulation.",
+  "flagship": "WIM wearable · ALLEX humanoid",
+  "people": "Yeonbaek Lee, Yongjae Kim (Co-CEOs; ex-Samsung Electronics Robotics engineers)",
+  "founded": 2021,
+  "hq": "Seoul, Korea",
+  "raised": 80.6,
+  "raisedD": "$80.6M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": false,
+  "note": "Founded by four ex-Samsung Electronics robotics engineers; revenue today is wearable medical/industrial exosuits, with the ALLEX humanoid announced in 2025 as a newer, less-proven product line. HQ city is a best estimate, not independently re-verified.",
+  "sources": [
+   [
+    "WIRobotics Secures Approximately KRW 100 Billion (USD 68 Million) Series B Funding · PR Newswire",
+    "https://www.prnewswire.com/news-releases/wirobotics-secures-approximately-krw-100-billion-usd-68-million-series-b-funding-302772164.html"
+   ],
+   [
+    "South Korea's WIRobotics Takes the Spotlight at CES 2025 · PR Newswire",
+    "https://www.prnewswire.com/news-releases/south-koreas-wirobotics-takes-the-spotlight-at-ces-2025-plans-global-expansion-302350400.html"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2024-03",
+    "amountM": 0,
+    "label": "Series A (amount undisclosed)",
+    "src": 1
+   },
+   {
+    "date": "2026-05",
+    "amountM": 68,
+    "label": "Series B",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2025-01",
+    "label": "ALLEX general-purpose humanoid unveiled at CES 2025",
+    "src": 1
+   }
+  ],
+  "tier": "gen",
+  "tags": [
+   "Body"
+  ],
+  "radar": false,
+  "rank": null
+ },
+ {
+  "name": "XDOF",
+  "country": "USA",
+  "stage": "Series A",
+  "head": "51-200",
+  "headC": "med",
+  "url": "https://www.xdof.com/",
+  "seg": "infra",
+  "dom": [
+   "Data",
+   "Teleop",
+   "Manipulation"
+  ],
+  "lvl": 1,
+  "target": 2,
+  "loop": "Runs three parallel data tiers — real-robot teleoperation, GELLO low-cost teleop-device operation, and egocentric wearable sensors worn by humans — to supply frontier robotics labs with manipulation trajectories; co-released the open ABC-130K dataset (~130K trajectories) with UC Berkeley, CMU, MIT and Amazon.",
+  "flagship": "ABC-130K · GELLO",
+  "people": "Philipp Wu, Fred Shentu, Nemo Jin (co-founders); GELLO originated from Wu's work with UC Berkeley researchers",
+  "founded": 2024,
+  "hq": "San Francisco Bay Area, USA",
+  "raised": 70,
+  "raisedD": "$70M",
+  "raisedC": "hi",
+  "val": 0,
+  "valD": "–",
+  "valC": "lo",
+  "oss": true,
+  "note": "Emerged from stealth June 2026 already with ~20 active customers including several frontier AI labs and ~60 employees. Valuation not disclosed in coverage.",
+  "sources": [
+   [
+    "Robotic teleoperation data startup XDOF launches with $70M (SiliconANGLE, 2026-06-17)",
+    "https://siliconangle.com/2026/06/17/robotic-teleoperation-data-startup-xdof-launches-70m-funding/"
+   ],
+   [
+    "Collecting robot training data is dirty, unglamorous work (TechCrunch, 2026-06-17)",
+    "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/"
+   ]
+  ],
+  "rounds": [
+   {
+    "date": "2026-06",
+    "amountM": 70,
+    "label": "Seed/Series A (undifferentiated in press)",
+    "src": 0
+   }
+  ],
+  "events": [
+   {
+    "date": "2026-06",
+    "label": "Launches from stealth with $70M and ABC-130K open dataset",
+    "src": 1
+   }
+  ],
+  "tier": "layer",
+  "tags": [
+   "Observe"
+  ],
+  "radar": false,
+  "rank": null
+ }
+]
