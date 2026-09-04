@@ -41,6 +41,22 @@ Ranked entries are deployability-infra pure-plays that clear a scale / evidence 
 - **The directory**: a table or card view of every organization, sortable by rank, capital, valuation and founding year, searchable by name or people, filterable by tag and country.
 - **One page per organization**: what they build, the flagship, the team, the timeline, and every figure with its confidence tag and source.
 
+## Figures
+
+Drawn from `data/orgs.json` by `tools/figures.py`, in the house style of [figures4papers](https://github.com/ChenLiu-1996/figures4papers). PNG and PDF versions are in [`assets/figures/`](assets/figures); the page uses transparent dark variants of the same files.
+
+<img src="assets/figures/takeoff.png" alt="Disclosed rounds since 2022 as a running total, deployability pure-plays stacked on robot makers, with field milestones placed on the curve" width="100%">
+
+*The takeoff, by kind of company.* Disclosed rounds since 2022 as a running total, deployability pure-plays stacked on robot makers, with field milestones placed on the curve. Same inclusion rule as the site's chart: no frontier labs, no public or corporate capital.
+
+<img src="assets/figures/capital_vs_evidence.png" alt="Disclosed capital raised against the deployment evidence shown, one marker per startup, with whiskers to the level each publicly aims for" width="100%">
+
+*Money against proof.* Disclosed capital against the deployment evidence shown, for startups with a disclosed total. Whiskers run to the level each one publicly aims for; bars mark the median at each level.
+
+<img src="assets/figures/evidence_gap.png" alt="Heatmap of organizations by the evidence level shown against the level publicly aimed for" width="49%"> <img src="assets/figures/coverage.png" alt="Stacked bars of organizations per layer of the loop and per scope of expertise, split by kind of organization" width="49%">
+
+*Shown against aimed* (left): each organization's level on the evidence scale against the level it publicly aims for; outlined cells are already there. *Where the field crowds* (right): organizations per layer of the loop and per scope from the deck's market map, split by kind of organization.
+
 ## Repository
 
 `index.html` is the entire site: one self-contained file with no dependencies. Open it directly in a browser, or serve the directory statically.
@@ -49,6 +65,7 @@ The data lives in `data/orgs.json` (entries, rounds, events, sources) and is emb
 
 ```
 python tools/build.py       # data/orgs.json + template.html -> index.html
+python tools/figures.py     # data/orgs.json -> assets/figures/ (png + pdf, and .dark.png for the page)
 ```
 
 `template.html` is the page without data; `tools/adapt.py` is the one-shot script that derived it from RSI List's `index.html`.
